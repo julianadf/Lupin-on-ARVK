@@ -1,0 +1,171 @@
+Region;Site;parnr;Lupin;rich
+Uppland;Backa;1;Yes;18
+Uppland;Backa;1;No;21
+Uppland;Backa;2;Yes;14
+Uppland;Backa;2;No;24
+Värmland;Bergsviken/Älvsbacka;1;Yes;6
+Värmland;Bergsviken/Älvsbacka;1;No;14
+Värmland;Bergsviken/Älvsbacka;2;Yes;7
+Värmland;Bergsviken/Älvsbacka;2;No;19
+Uppland;Brobacke;1;Yes;17
+Uppland;Brobacke;1;No;27
+Uppland;Brobacke;2;Yes;9
+Uppland;Brobacke;2;No;17
+Uppland;Brunkullsvägen;1;Yes;19
+Uppland;Brunkullsvägen;1;No;16
+Uppland;Brunkullsvägen;2;Yes;10
+Uppland;Brunkullsvägen;2;No;16
+Uppland;Bänntorpet;1;Yes;21
+Uppland;Bänntorpet;1;No;25
+Uppland;Bänntorpet;2;Yes;20
+Uppland;Bänntorpet;2;No;25
+Uppland;Dragkärret;1;Yes;13
+Uppland;Dragkärret;1;No;19
+Uppland;Dragkärret;2;Yes;13
+Uppland;Dragkärret;2;No;16
+Uppland;Enköping;1;Yes;8
+Uppland;Enköping;1;No;5
+Uppland;Enköping;2;Yes;10
+Uppland;Enköping;2;No;11
+Värmland;Flugbohöjden/Ettala;1;Yes;10
+Värmland;Flugbohöjden/Ettala;1;No;26
+Värmland;Flugbohöjden/Ettala;2;Yes;11
+Värmland;Flugbohöjden/Ettala;2;No;22
+Uppland;Gamsebo Hagaberg;1;Yes;13
+Uppland;Gamsebo Hagaberg;1;No;21
+Uppland;Gamsebo Hagaberg;2;Yes;8
+Uppland;Gamsebo Hagaberg;2;No;10
+Värmland;Gersbysäter/Gersby;1;Yes;12
+Värmland;Gersbysäter/Gersby;1;No;20
+Värmland;Gersbysäter/Gersby;2;Yes;8
+Värmland;Gersbysäter/Gersby;2;No;16
+Uppland;Gullvalla;1;Yes;24
+Uppland;Gullvalla;1;No;33
+Uppland;Gullvalla;2;Yes;13
+Uppland;Gullvalla;2;No;13
+Värmland;Häggstöd/Nyeds-Backa;1;Yes;18
+Värmland;Häggstöd/Nyeds-Backa;1;No;21
+Värmland;Häggstöd/Nyeds-Backa;2;Yes;11
+Värmland;Häggstöd/Nyeds-Backa;2;No;20
+Värmland;Jonsbol;1;Yes;19
+Värmland;Jonsbol;1;No;19
+Uppland;Kårbo;1;Yes;9
+Uppland;Kårbo;1;No;16
+Uppland;Kårbo;2;Yes;15
+Uppland;Kårbo;2;No;16
+Uppland;Kölnbacken;1;Yes;10
+Uppland;Kölnbacken;1;No;28
+Uppland;Kölnbacken;2;Yes;11
+Uppland;Kölnbacken;2;No;17
+Uppland;Larsbo;1;Yes;17
+Uppland;Larsbo;1;No;13
+Uppland;Larsbo;2;Yes;22
+Uppland;Larsbo;2;No;26
+Uppland;Lilla harnevi;1;Yes;12
+Uppland;Lilla harnevi;1;No;9
+Uppland;Lilla harnevi;2;Yes;9
+Uppland;Lilla harnevi;2;No;7
+Uppland;Littersbo 1;1;Yes;17
+Uppland;Littersbo 1;1;No;27
+Uppland;Littersbo 1;2;Yes;23
+Uppland;Littersbo 1;2;No;24
+Uppland;Littersbo 2;1;Yes;12
+Uppland;Littersbo 2;1;No;14
+Uppland;Littersbo 2;2;Yes;11
+Uppland;Littersbo 2;2;No;23
+Uppland;Lydinge;1;Yes;11
+Uppland;Lydinge;1;No;14
+Uppland;Lydinge;2;Yes;12
+Uppland;Lydinge;2;No;12
+Värmland;Manhem/Asphyttan;1;Yes;14
+Värmland;Manhem/Asphyttan;1;No;14
+Värmland;Manhem/Asphyttan;2;Yes;16
+Värmland;Manhem/Asphyttan;2;No;18
+Uppland;Missionskyrkan;1;Yes;11
+Uppland;Missionskyrkan;1;No;14
+Uppland;Missionskyrkan;2;Yes;17
+Uppland;Missionskyrkan;2;No;20
+Uppland;Motocrossbanan ;1;Yes;22
+Uppland;Motocrossbanan ;1;No;21
+Uppland;Motocrossbanan ;2;Yes;16
+Uppland;Motocrossbanan ;2;No;26
+Värmland;Nordsjö;1;Yes;9
+Värmland;Nordsjö;1;No;21
+Värmland;Nykroppa Herrhult;1;Yes;9
+Värmland;Nykroppa Herrhult;1;No;20
+Värmland;Nykroppa Herrhult;2;Yes;12
+Värmland;Nykroppa Herrhult;2;No;26
+Värmland;Nykroppa Herrhult;3;Yes;12
+Värmland;Nykroppa Herrhult;3;No;17
+Uppland;Odensfors;1;Yes;13
+Uppland;Odensfors;1;No;18
+Uppland;Odensfors;2;Yes;21
+Uppland;Odensfors;2;No;23
+Uppland;Ransta;1;Yes;12
+Uppland;Ransta;1;No;16
+Uppland;Ransta;2;Yes;14
+Uppland;Ransta;2;No;17
+Uppland;Runhällen;1;Yes;16
+Uppland;Runhällen;1;No;17
+Uppland;Runhällen;2;Yes;15
+Uppland;Runhällen;2;No;22
+Värmland;Rämmen-Haget;1;Yes;18
+Värmland;Rämmen-Haget;1;No;21
+Värmland;Rämmen-Haget;2;Yes;9
+Värmland;Rämmen-Haget;2;No;31
+Värmland;Rämmen-Haget;3;Yes;15
+Värmland;Rämmen-Haget;3;No;19
+Uppland;Röcklingeås;1;Yes;14
+Uppland;Röcklingeås;1;No;18
+Uppland;Röcklingeås;2;Yes;15
+Uppland;Röcklingeås;2;No;21
+Uppland;Rödmossa;1;Yes;16
+Uppland;Rödmossa;1;No;19
+Uppland;Rödmossa;2;Yes;11
+Uppland;Rödmossa;2;No;18
+Uppland;Slutbo;1;Yes;23
+Uppland;Slutbo;1;No;27
+Uppland;Slutbo;2;Yes;16
+Uppland;Slutbo;2;No;20
+Värmland;Snavlunda äng;1;Yes;7
+Värmland;Snavlunda äng;1;No;21
+Uppland;Solbo;1;Yes;12
+Uppland;Solbo;1;No;20
+Uppland;Solbo;2;Yes;14
+Uppland;Solbo;2;No;21
+Värmland;Stavkärr/Svinnersta;1;Yes;16
+Värmland;Stavkärr/Svinnersta;1;No;19
+Värmland;Stavkärr/Svinnersta;2;Yes;12
+Värmland;Stavkärr/Svinnersta;2;No;12
+Värmland;Stavkärr/Svinnersta;3;Yes;13
+Värmland;Stavkärr/Svinnersta;3;No;18
+Uppland;Söderfors;1;Yes;19
+Uppland;Söderfors;1;No;18
+Uppland;Söderfors;2;Yes;28
+Uppland;Söderfors;2;No;28
+Uppland;Sörbäck;1;Yes;11
+Uppland;Sörbäck;1;No;19
+Uppland;Sörbäck;2;Yes;9
+Uppland;Sörbäck;2;No;19
+Värmland;Torsked;1;Yes;10
+Värmland;Torsked;1;No;13
+Uppland;Västerby;1;Yes;18
+Uppland;Västerby;1;No;17
+Uppland;Västerby;2;Yes;13
+Uppland;Västerby;2;No;23
+Uppland;Östanbäck;1;Yes;18
+Uppland;Östanbäck;1;No;20
+Uppland;Östanbäck;2;Yes;21
+Uppland;Östanbäck;2;No;23
+Uppland;Östanbäcks kloster;1;Yes;20
+Uppland;Östanbäcks kloster;1;No;16
+Uppland;Östanbäcks kloster;2;Yes;18
+Uppland;Östanbäcks kloster;2;No;22
+Uppland;Österunda1;1;Yes;20
+Uppland;Österunda1;1;No;24
+Uppland;Österunda1;2;Yes;21
+Uppland;Österunda1;2;No;15
+Uppland;Österunda2;1;Yes;25
+Uppland;Österunda2;1;No;25
+Uppland;Österunda2;2;Yes;14
+Uppland;Österunda2;2;No;15

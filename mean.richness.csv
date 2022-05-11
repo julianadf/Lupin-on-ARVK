@@ -1,0 +1,87 @@
+County;Site;Lupin.NoLupin;n;mean.rich;sd;se
+Uppsala;Backa;Lupin;2;16;2,828427125;2
+Uppsala;Backa;NoLupin;2;22,5;2,121320344;1,5
+Uppsala;Brobacke;Lupin;2;13;5,656854249;4
+Uppsala;Brobacke;NoLupin;2;22;7,071067812;5
+Uppsala;Brunkullsvägen;Lupin;2;14,5;6,363961031;4,5
+Uppsala;Brunkullsvägen;NoLupin;2;16;0;0
+Uppsala;Bänntorpet;Lupin;2;20,5;0,707106781;0,5
+Uppsala;Bänntorpet;NoLupin;2;25;0;0
+Uppsala;Dragkärret;Lupin;2;13;0;0
+Uppsala;Dragkärret;NoLupin;2;17,5;2,121320344;1,5
+Uppsala;Enköping;Lupin;2;9;1,414213562;1
+Uppsala;Enköping;NoLupin;2;8;4,242640687;3
+Uppsala;Gamsebo Hagaberg;Lupin;2;10,5;3,535533906;2,5
+Uppsala;Gamsebo Hagaberg;NoLupin;2;15,5;7,778174593;5,5
+Uppsala;Gullvalla;Lupin;2;18,5;7,778174593;5,5
+Uppsala;Gullvalla;NoLupin;2;23;14,14213562;10
+Uppsala;Kårbo;Lupin;2;12;4,242640687;3
+Uppsala;Kårbo;NoLupin;2;16;0;0
+Uppsala;Kölnbacken;Lupin;2;10,5;0,707106781;0,5
+Uppsala;Kölnbacken;NoLupin;2;22,5;7,778174593;5,5
+Uppsala;Larsbo;Lupin;2;19,5;3,535533906;2,5
+Uppsala;Larsbo;NoLupin;2;19,5;9,192388155;6,5
+Uppsala;Lilla harnevi;Lupin;2;10,5;2,121320344;1,5
+Uppsala;Lilla harnevi;NoLupin;2;8;1,414213562;1
+Uppsala;Littersbo 1;Lupin;2;20;4,242640687;3
+Uppsala;Littersbo 1;NoLupin;2;25,5;2,121320344;1,5
+Uppsala;Littersbo 2;Lupin;2;11,5;0,707106781;0,5
+Uppsala;Littersbo 2;NoLupin;2;18,5;6,363961031;4,5
+Uppsala;Lydinge;Lupin;2;11,5;0,707106781;0,5
+Uppsala;Lydinge;NoLupin;2;13;1,414213562;1
+Uppsala;Missionskyrkan;Lupin;2;14;4,242640687;3
+Uppsala;Missionskyrkan;NoLupin;2;17;4,242640687;3
+Uppsala;Motocrossbanan ;Lupin;2;19;4,242640687;3
+Uppsala;Motocrossbanan ;NoLupin;2;23,5;3,535533906;2,5
+Uppsala;Odensfors;Lupin;2;17;5,656854249;4
+Uppsala;Odensfors;NoLupin;2;20,5;3,535533906;2,5
+Uppsala;Ransta;Lupin;2;13;1,414213562;1
+Uppsala;Ransta;NoLupin;2;16,5;0,707106781;0,5
+Uppsala;Runhällen;Lupin;2;15,5;0,707106781;0,5
+Uppsala;Runhällen;NoLupin;2;19,5;3,535533906;2,5
+Uppsala;Röcklingeås;Lupin;2;14,5;0,707106781;0,5
+Uppsala;Röcklingeås;NoLupin;2;19,5;2,121320344;1,5
+Uppsala;Rödmossa;Lupin;2;13,5;3,535533906;2,5
+Uppsala;Rödmossa;NoLupin;2;18,5;0,707106781;0,5
+Uppsala;Slutbo;Lupin;2;19,5;4,949747468;3,5
+Uppsala;Slutbo;NoLupin;2;23,5;4,949747468;3,5
+Uppsala;Solbo;Lupin;2;13;1,414213562;1
+Uppsala;Solbo;NoLupin;2;20,5;0,707106781;0,5
+Uppsala;Söderfors;Lupin;2;23,5;6,363961031;4,5
+Uppsala;Söderfors;NoLupin;2;23;7,071067812;5
+Uppsala;Sörbäck;Lupin;2;10;1,414213562;1
+Uppsala;Sörbäck;NoLupin;2;19;0;0
+Uppsala;Västerby;Lupin;2;15,5;3,535533906;2,5
+Uppsala;Västerby;NoLupin;2;20;4,242640687;3
+Uppsala;Östanbäck;Lupin;2;19,5;2,121320344;1,5
+Uppsala;Östanbäck;NoLupin;2;21,5;2,121320344;1,5
+Uppsala;Östanbäcks kloster;Lupin;2;19;1,414213562;1
+Uppsala;Östanbäcks kloster;NoLupin;2;19;4,242640687;3
+Uppsala;Österunda1;Lupin;2;20,5;0,707106781;0,5
+Uppsala;Österunda1;NoLupin;2;19,5;6,363961031;4,5
+Uppsala;Österunda2;Lupin;2;19,5;7,778174593;5,5
+Uppsala;Österunda2;NoLupin;2;20;7,071067812;5
+Värmland;Bergsviken/Älvsbacka;Lupin;2;6,5;0,707106781;0,5
+Värmland;Bergsviken/Älvsbacka;NoLupin;2;16,5;3,535533906;2,5
+Värmland;Flugbohöjden/Ettala;Lupin;2;10,5;0,707106781;0,5
+Värmland;Flugbohöjden/Ettala;NoLupin;2;24;2,828427125;2
+Värmland;Gersbysäter/Gersby;Lupin;2;10;2,828427125;2
+Värmland;Gersbysäter/Gersby;NoLupin;2;18;2,828427125;2
+Värmland;Häggstöd/Nyeds-Backa;Lupin;2;14,5;4,949747468;3,5
+Värmland;Häggstöd/Nyeds-Backa;NoLupin;2;20,5;0,707106781;0,5
+Värmland;Jonsbol;Lupin;1;19;NA;NA
+Värmland;Jonsbol;NoLupin;1;19;NA;NA
+Värmland;Manhem/Asphyttan;Lupin;2;15;1,414213562;1
+Värmland;Manhem/Asphyttan;NoLupin;2;16;2,828427125;2
+Värmland;Nordsjö;Lupin;1;9;NA;NA
+Värmland;Nordsjö;NoLupin;1;21;NA;NA
+Värmland;Nykroppa Herrhult;Lupin;3;11;1,732050808;1
+Värmland;Nykroppa Herrhult;NoLupin;3;21;4,582575695;2,645751311
+Värmland;Rämmen-Haget;Lupin;3;14;4,582575695;2,645751311
+Värmland;Rämmen-Haget;NoLupin;3;23,66666667;6,429100507;3,711842909
+Värmland;Torsked;Lupin;1;10;NA;NA
+Värmland;Torsked;NoLupin;1;13;NA;NA
+Örebro;Snavlunda äng;Lupin;1;7;NA;NA
+Örebro;Snavlunda äng;NoLupin;1;21;NA;NA
+Örebro;Stavkärr/Svinnersta;Lupin;3;13,66666667;2,081665999;1,201850425
+Örebro;Stavkärr/Svinnersta;NoLupin;3;16,33333333;3,785938897;2,185812841
