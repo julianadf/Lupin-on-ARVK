@@ -1,0 +1,223 @@
+Swedish.name;Species;Dataset;Distribution in all counties;Missing county;Status;Medelhöjd (cm);Träd
+Akleja;Aquilegia vulgaris;Uppland;yes;;LC;55;0
+Alsikeklöver;Trifolium hybridum;Uppland;yes;;LC;35;0
+Asp;Populus tremula;Uppland;yes;;LC;1750;1
+Backnejlika;Dianthus deltoides;Värmland;yes;;LC;20;0
+Backskärvfrö;Noccaea caerulescens;Uppland;yes;;LC;22,5;0
+Baldersbrå;Tripleurospermum inodorum;Uppland;yes;;LC;50;0
+Bergsyra;Rumex acetosella;Uppland;yes;;LC;25;0
+Bergrör;Calamagrostis epigejos;Värmland;yes;;LC;100;0
+Bergslok;Melica nutans;Värmland;yes;;LC;45;0
+Bindvide;Salix aurita;Uppland;yes;;LC;175;1
+Björnbär;Rubus fruticosus;Uppland;yes;;LC;;0
+Björnloka;Heracleum sphondylium;Uppland;yes;;LC;115;0
+Blekfryle;Luzula pallescens;Uppland;yes;;LC;20;0
+Blekstarr;Carex pallescens;Uppland;yes;;LC;42,5;0
+Blodrot;Potentilla erecta;Uppland;yes;;LC;30;0
+Blåbär;Vaccinium myrtillus;Värmland;yes;;LC;30;0
+Blåklint;Centaurea cyanus;Värmland;yes;;LC;50;0
+Blåsuga;Ajuga pyramidalis;Värmland;yes;;LC;15;0
+Bockrot;Pimpinella saxifraga;Uppland;yes;;LC;12,5;0
+Brakved;Frangula alnus;Uppland;yes;;LC;400;1
+Brudborste;Cirsium heterophyllum;Uppland;yes;;LC;90;0
+Brunklöver;Trifolium spadiceum;Värmland;yes;;NT;25;0
+Brunört;Prunella vulgaris;Uppland;yes;;LC;15;0
+Brännässla;Urtica dioica;Uppland;yes;;LC;115;0
+Bäckveronika;Veronica beccabunga;Uppland;yes;;LC;40;0
+Daggkåpa;Alchemilla vulgaris;Uppland;yes;;;25;0
+Ekorrbär;Maianthemum bifolium;Uppland;yes;;LC;12,5;0
+Femfingerört;Potentilla argentea;Uppland;yes;;LC;25;0
+Flockfibbla;Hieracium umbellatum;Uppland;yes;;LC;52,5;0
+Fläcknycklar;Dactylorhiza maculata;Värmland;yes;;LC;27,5;0
+Foderlosta;Bromopsis inermis;Värmland;yes;;LC;80;0
+Fodervallört;Symphytum asperum;Värmland;yes;;NA;125;0
+Fräken;Equisetum;Uppland;yes;;;;0
+Fyrkantig johannesört;Hypericum maculatum;Uppland;yes;;LC;55;0
+Fårsvingel;Festuca ovina;Värmland;yes;;LC;27,5;0
+Fjälltimotej;Phleum alpinum;Värmland;no;Uppland;LC;20;0
+Fältveronika;Veronica arvensis;Uppland;yes;;LC;15;0
+Färgkulla;Cota tinctoria;Uppland;yes;;LC;45;0
+Förgätmigej;Myosotis scorpioides;Uppland;yes;;LC;30;0
+Glasbjörk;Betula pubescens;Uppland;yes;;LC;1400;1
+Gran;Picea abies;Uppland;yes;;LC;2650;1
+Groblad;Plantago major;Uppland;yes;;LC;30;0
+Gråbinka;Erigeron acris;Värmland;yes;;LC;25;0
+Gråbo;Artemisia vulgaris;Uppland;yes;;LC;125;0
+Gråfibbla;Pilosella officinarum;Uppland;yes;;LC;12,5;0
+Gråvide;Salix cinerea;Uppland;yes;;LC;800;1
+Gråögontröst;Euphrasia nemorosa;Uppland;yes;;LC;12,5;0
+Grässtjärnblomma;Stellaria graminea;Uppland;yes;;LC;20;0
+Gullklöver;Trifolium aureoum;Uppland;yes;;NT;22,5;0
+Gullkrage;Glebionis segetum;Värmland;yes;;LC;37,5;0
+Gullris;Solidago virgaurea;Uppland;yes;;LC;62,5;0
+Gullviva;Primula veris;Uppland;yes;;LC;20;0
+Gulmåra;Galium verum;Uppland;yes;;LC;35;0
+Gulsporre;Linaria vulgaris;Uppland;yes;;LC;45;0
+Gulvial;Lathyrus pratensis;Uppland;yes;;LC;60;0
+Gårdsskräppa;Rumex longifolius;Uppland;yes;;LC;90;0
+Gåsört;Argentina anserina;Uppland;yes;;LC;10;0
+Gökblomster;Lychnis flos-cuculi;Uppland;yes;;LC;45;0
+Gökärt;Lathyrus linifolius;Uppland;yes;;LC;25;0
+Hagfibblor;Hieracium sect. Vulgata;Uppland;yes;;NA;60;0
+Hallon;Rubus idaeus;Uppland;yes;;LC;125;0
+Harkål;Lapsana communis;Uppland;yes;;LC;70;0
+Harstarr;Carex leporina;Uppland;yes;;LC;25;0
+Hirsstarr;Carex panicea;Uppland;yes;;LC;32,5;0
+Humleblomster;Geum rivale;Uppland;yes;;LC;35;0
+Humlelusern;Medicago lupulina;Uppland;yes;;LC;22,5;0
+Hundkex;Anthriscus sylvestris;Uppland;yes;;LC;100;0
+Hundstarr;Carex nigra;Uppland;yes;;LC;30;0
+Hundäxing;Dactylis glomerata;Värmland;yes;;LC;70;0
+Hårdsvingel;Festuca brevipila;Värmland;yes;;NA;35;0
+Hårig fibbla;Hieracium spp.;Uppland;yes;;NA;;0
+Häckvicker;Vicia sepium;Uppland;yes;;LC;45;0
+Hägg;Prunus padus;Uppland;yes;;LC;850;1
+Hästhov;Tussilago farfara;Uppland;yes;;LC;12,5;0
+Tussilago;Tussilago farfara;Värmland;yes;;LC;12,5;0
+Hönsarv;Cerastium fontanum;Uppland;yes;;LC;20;0
+Höstfibbla;Scorzoneroides autumnalis;Uppland;yes;;LC;25;0
+Jolster;Salix pentandra;Uppland;yes;;LC;800;1
+Jungfrulin;Polygala vulgaris;Uppland;yes;;LC;175;0
+Kabbleka;Caltha palustris;Uppland;yes;;LC;30;0
+Kanadensiskt gullris;Solidago canadensis;Värmland;yes;;NA;90;0
+Kirskål;Aegopodium podagraria;Uppland;yes;;LC;65;0
+Klasefibbla;Crepis praemorsa;Uppland;yes;;NT;45;0
+Klibbal;Alnus glutinosa;Uppland;yes;;LC;1500;1
+Klotpyrola;Pyrola minor;Värmland;yes;;LC;12,5;0
+Knagglestarr;Carex flava;Uppland;yes;;LC;35;0
+Knapptåg;Juncus conglomeratus;Uppland;yes;;LC;65;0
+Knylhavre;Arrhenatherum elatius;Värmland;yes;;LC;100;0
+Knölklocka;Campanula rapunculoides;Värmland;yes;;NA;55;0
+Knölsyska;Stachys palustris;Uppland;yes;;LC;65;0
+Kransmynta;Mentha x verticillata;Uppland;yes;;LC;45;0
+Krattfibblor;Hieracium sect. Bifida;Uppland;yes;;;;0
+Krusfrö;Selinum carvifolia;Uppland;yes;;NT;65;0
+Krusskräppa;Rumex crispus;Uppland;yes;;LC;105;0
+Kruståtel;Avenella flexuosa;Värmland;yes;;LC;50;0
+Krypnarv;Sagina procumbens;Uppland;yes;;LC;3,5;0
+Krypven;Agrostis stolonifera;Värmland;yes;;LC;47,5;0
+Kvickrot;Elytrigia repens;Värmland;yes;;LC;75;0
+Kärrgröe;Poa trivialis;Värmland;yes;;LC;50;0
+Kråkklöver;Comarum palustre;Uppland;yes;;LC;35;0
+Kråkvicker;Vicia cracca;Uppland;yes;;LC;60;0
+Kummin;Carum carvi;Uppland;yes;;LC;42,5;0
+Kvastfibbla;Pilosella cymosa;Uppland;yes;;LC;60;0
+Kärrspira;Pedicularis palustris;Värmland;yes;;LC;27,5;0
+Kålmolke;Sonchus oleraceus;Uppland;yes;;LC;65;0
+Käringtand;Lotus corniculatus;Uppland;yes;;LC;40;0
+Kärrtistel;Cirsium palustre;Uppland;yes;;LC;150;0
+Liljekonvalj;Convallaria majalis;Uppland;yes;;LC;17,5;0
+Lingon;Vaccinium vitis-idaea;Uppland;yes;;LC;17,5;0
+Litenblåklocka;Campanula rotundifolia;Uppland;yes;;LC;30;0
+Ljung;Calluna vulgaris;Uppland;yes;;LC;42,5;0
+Lupin;Lupinus polyphyllus;Uppland;yes;;;85;0
+Lönn;Acer platanoides;Uppland;yes;;LC;1500;1
+Majbräken;Athyrium filix-femina;Uppland;yes;;LC;85;0
+Majsmörblomma;Ranunculus auricomus agg.;Uppland;yes;;LC;36;0
+Maskros;Taraxacum;Uppland;yes;;LC;;0
+Mjölkört;Chamaenerion angustifolium;Värmland;yes;;LC;115;0
+Midsommarblomster;Geranium sylvaticum;Uppland;yes;;LC;47,5;0
+Mörkt kungsljus;Verbascum nigrum;Värmland;yes;;LC;70;0
+Nejlikrot;Geum urbanum;Uppland;yes;;LC;50;0
+Nysört;Achillea ptarmica;Uppland;yes;;LC;40;0
+Odon;Vaccinium uliginosum;Uppland;yes;;LC;40;0
+Ormbär;Paris quadrifolia;Uppland;yes;;LC;22,5;0
+Ormrot;Bistorta vivipara;Värmland;yes;;LC;25;0
+Parkgröe;Poa chaixii;Värmland;yes;;LC;75;0
+Pillerstarr;Carex pilulifera;Uppland;yes;;NA;25;0
+Piprör;Calamagrostis arundinacea;Värmland;yes;;LC;105;0
+Prästkrage;Leucanthemum vulgare;Uppland;yes;;LC;45;0
+Rallarros;Chamaenerion angustifolium;Uppland;yes;;LC;115;0
+Renfana;Tanacetum vulgare;Uppland;yes;;LC;90;0
+Revfibbla;Pilosella lactucella;Uppland;yes;;LC;17,5;0
+Revfingerört;Potentilla reptans;Uppland;yes;;LC;15;0
+Revsmörblomma;Ranunculus repens;Uppland;yes;;LC;30;0
+Ryssgubbe;Bunias orientalis;Uppland;yes;;LC;85;0
+Rödklint;Centaurea jacea;Uppland;yes;;LC;55;0
+Rödklöver;Trifolium pratense;Uppland;yes;;LC;37,5;0
+Rödsvingel;Festuca rubra;Värmland;yes;;LC;52,5;0
+Rödven;Agrostis capillaris;Värmland;yes;;LC;35;0
+Röllika;Achillea millefolium;Uppland;yes;;LC;45;0
+Rönn;Sorbus aucuparia;Uppland;yes;;LC;900;1
+Rörflen;Phalaris arundinacea;Värmland;yes;;LC;135;0
+Sandnarv;Arenaria serpyllifolia;Uppland;yes;;LC;12,5;0
+Sjöfräken;Equisetum fluviatile;Uppland;yes;;LC;40;0
+Skogsfibblor;Hieracium sect. Hieracium agg.;Uppland;yes;;LC;37,5;0
+Skogsfräken;Equisetum sylvaticum;Uppland;yes;;LC;40;0
+Skogsklöver;Trifolium medium;Uppland;yes;;LC;27,5;0
+Skogskovall;Melampyrum sylvaticum;Värmland;yes;;LC;20;0
+Skogsnarv;Moehringia trinervia;Uppland;yes;;LC;25;0
+Skogssallat;Lactuca muralis;Uppland;yes;;LC;60;0
+Skogsstjärnblomma;Stellaria longifolia;Värmland;yes;;LC;90;0
+Skogssäv;Scirpus sylvaticus;Uppland;yes;;LC;75;0
+Skogsvicker;Vicia sylvatica;Uppland;yes;;LC;125;0
+Skogsviol;Viola riviniana;Uppland;yes;;LC;15;0
+Skogsnäva;Geranium sylvaticum;Värmland;yes;;LC;47,5;0
+Skuggnäva;Geranium pyrenaicum;Uppland;yes;;LC;42,5;0
+Slankstarr;Carex flacca;Uppland;yes;;LC;32,5;0
+Slåtterblomma;Parnassia palustris;Värmland;yes;;LC;17,5;0
+Smultron;Fragaria vesca;Uppland;yes;;LC;12,5;0
+Smällglim;Silene vulgaris;Värmland;yes;;LC;55;0
+Sparvvicker;Vicia tetrasperma;Uppland;yes;;LC;42,5;0
+Stenbär;Rubus saxatilis;Uppland;yes;;LC;22,5;0
+Stor getväppling;Anthyllis vulneraria;Uppland;yes;;LC;32,5;0
+Storblåklocka;Campanula persicifolia;Uppland;yes;;LC;65;0
+Stormåra;Gallium mollugo;Uppland;yes;;LC;65;0
+Strätta;Angelica sylvestris;Värmland;yes;;LC;140;0
+Styvfibblor;Hieracium sect. Tridentata;Uppland;yes;;LC;70;0
+Svalört;Ficaria verna;Uppland;yes;;LC;15;0
+Svartkämpar;Plantago lanceolata;Värmland;yes;;LC;40;0
+Sylnarv;Sagina revelierei;Uppland;no;Örebro, Värmland;NT;6;0
+Sumpmåra;Galium uliginosum;Värmland;yes;;LC;22,5;0
+Svinrot;Scorzonera humilis;Värmland;yes;;NT;25;0
+Sälg;Salix caprea;Uppland;yes;;LC;900;1
+Tall;Pinus sylvestris;Uppland;yes;;LC;2100;1
+Teveronika;Veronica chamaedrys;Uppland;yes;;LC;20;0
+Trampgröe;Poa supina;Värmland;yes;;LC;15;0
+Timotej;Phleum pratense;Värmland;yes;;LC;75;0
+Tvåblad;Neottia ovata;Uppland;yes;;LC;25;0
+Tätört;Pinguicula vulgaris;Värmland;yes;;LC;30;0
+Vanligsmörblomma;Ranunculus acris subsp. acris;Uppland;yes;;LC;45;0
+Vasstarr;Carex acuta;Uppland;yes;;LC;75;0
+Veketåg;Juncus effusus;Värmland;yes;;LC;80;0
+Vildlin;Linum catharticum;Värmland;yes;;LC;15;0
+Vildmorot;Daucus carota subsp. carota;Värmland;yes;;LC;55;0
+Vildpersilja;Aethusa cynapium;Uppland;yes;;LC;102,5;0
+Vispstarr;Carex digitata;Uppland;yes;;LC;20;0
+Vit dunört;Epilobium ciliatum;Uppland;yes;;NA;65;0
+Vitklöver;Trifolium repens;Uppland;yes;;LC;20;0
+Vitknavel;Scleranthus perennis;Uppland;yes;;LC;10;0
+Vitmåra;Galium boreale;Uppland;yes;;LC;45;0
+Vitplister;Lamium album;Uppland;yes;;LC;50;0
+Vitpyrola;Pyrola rotundifolia;Värmland;yes;;LC;22,5;0
+Vitsippa;Anemone nemorosa;Uppland;yes;;LC;19;0
+Vårfryle;Luzula pilosa;Uppland;yes;;LC;17,5;0
+Vårtbjörk;Betula pendula;Uppland;yes;;LC;1650;1
+Vårbrodd;Anthoxanthum odoratum agg.;Värmland;yes;;LC;25;0
+Vägtistel;Cirsium vulgare;Uppland;yes;;LC;90;0
+Åkerbär;Rubus arcticus;Värmland;yes;;LC;15;0
+Åkerfräken;Equisetum arvense;Uppland;yes;;LC;30;0
+Åkerförgätmigej;Myosotis arvensis;Uppland;yes;;LC;25;0
+Åkertistel;Cirsium arvense;Uppland;yes;;LC;95;0
+Åkervinda;Convolvulus arvensis;Uppland;yes;;LC;100;0
+Åkerviol;Viola arvensis;Uppland;yes;;LC;22,5;0
+Åkervädd;Knautia arvensis;Uppland;yes;;LC;55;0
+Äkta förgätmigej;Myosotis scorpioides;Uppland;yes;;LC;30;0
+Äkta johannesört;Hypericum perforatum;Uppland;yes;;LC;50;0
+Johannesört;Hypericum perforatum;Värmland;yes;;LC;50;0
+Älggräs;Filipendula ulmaria;Värmland;yes;;LC;100;0
+Älgört;Filipendula ulmaria;Uppland;yes;;LC;100;0
+Ängsfryle;Luzula multiflora;Uppland;yes;;LC;30;0
+Ängshaverrot;Tragopogon pratensis;Uppland;yes;;LC;55;0
+Ängsklocka;Campanula patula;Uppland;yes;;LC;45;0
+Ängskovall;Melampyrum pratense;Uppland;yes;;LC;25;0
+Ängskavle;Alopecurus pratensis;Värmland;yes;;LC;85;0
+Ängsskallra;Rhinanthus minor;Uppland;yes;;LC;20;0
+Ängsgröe;Poa pratensis;Värmland;yes;;LC;50;0
+Ängssyra;Rumex acetosa;Uppland;yes;;LC;60;0
+Ängssvingel;Schedonorus pratensis;Värmland;yes;;LC;65;0
+Ängsviol;Viola canina;Uppland;yes;;LC;12,5;0
+Ängsvädd;Succisa pratensis;Uppland;yes;;LC;42,5;0
+Ärenpris;Veronica officinalis;Uppland;yes;;LC;20;0
+Ärtstarr;Carex oederi;Uppland;yes;;LC;14;0
+Örnbräken;Pteridium ;Uppland;yes;;LC;;0

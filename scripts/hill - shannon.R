@@ -4,7 +4,6 @@ library(tidyverse)
 library(vegan)
 library(permute)
 library(geosphere)
-library(iNEXT)
 library(ggplot2)
 library(png)
 library(grid)
@@ -13,6 +12,95 @@ library(magick)
 library(glmmTMB)
 library(DHARMa)
 library(visreg)
+
+# with the random subset data:
+# Load and check data ----
+raw.data <- read.csv2(here("data", "Raw data.csv" ))
+
+data.1 <- raw.data %>% 
+  mutate(Site = as.factor(Site)) %>% 
+  mutate(parnr = as.factor(Parnr)) %>% 
+  mutate(Lupin.NoLupin = as.factor(Lupin.NoLupin)) %>% 
+  group_by(County, Site, parnr, Lupin.NoLupin, Species) %>%
+  summarise(Occ= sum(Occurrence))
+data.1
+
+# use the randomly pre-selected pairs to select data
+# Load the selected pairs
+selected.pairs <- read.csv2(here("data", "selected pairs per site.csv"))
+
+selected.pairs <- selected.pairs %>% 
+  mutate(Site = as.factor(Site)) %>% 
+  mutate(parnr = as.factor(parnr))
+str(selected.pairs)
+
+# Use the selected pairs to subset the entire dataset
+final.selection <- semi_join(data.1, selected.pairs, by= c("Site", "parnr"))
+
+data <- final.selection %>% 
+  mutate(County = dplyr::recode(County, "Örebro"= "Värmland")) %>%
+  rename(Lupin = Lupin.NoLupin) %>%
+  mutate(Lupin = case_when(Lupin == "Lupin" ~ "Yes", TRUE ~ "No")) %>% 
+  mutate(County = as.factor(County)) %>% 
+  mutate(Site = as.factor(Site)) %>% 
+  mutate(Lupin = as.factor(Lupin)) 
+str(data)
+
+df <- data %>% 
+  group_by(County, Site, Lupin) %>% 
+  spread(., key="Species", value = "Occ") %>% 
+  replace(is.na(.), 0)
+df 
+
+# Divide the dataset into lupin / no lupin
+lupin <- df %>% 
+  filter(Lupin =="Yes") %>% 
+  mutate(County= as.factor(County)) %>% 
+  mutate(Site = as.factor(Site)) %>% 
+  mutate(Lupin = as.factor(Lupin))
+str(lupin)
+
+no.lupin <- df %>% 
+  filter(Lupin =="No") %>% 
+  mutate(County= as.factor(County)) %>% 
+  mutate(Site = as.factor(Site)) %>% 
+  mutate(Lupin = as.factor(Lupin))
+str(no.lupin)
+
+# Calculate Hill diversities and extract them
+
+# Hill diversities for plots with lupin
+Hill.lupin <- renyi(lupin[,5:188], hill = TRUE)
+shannon.lupin <- Hill.lupin[,4]
+# Hill diversities for plots without lupin
+Hill.nolupin <- renyi(no.lupin[,5:188], hill = TRUE)
+shannon.nolupin <- Hill.nolupin[,4]
+# Create database for test
+db.1 <- bind_cols(lupin[,1:4], shannon.lupin)
+db.1 <- rename(db.1, shannon = ...5)
+db.2 <- bind_cols(no.lupin[,1:4], shannon.nolupin)
+db.2 <- rename(db.2, shannon = ...5)
+
+db <- bind_rows(db.1,db.2)
+hist(db$shannon)
+# Run analysis
+model.shannon <- glmmTMB(shannon ~ Lupin * County + (1|Site), family= "Gamma", data=db)
+summary(model.shannon)
+car::Anova(model.shannon, type= "III")
+mod_dharma1 <- model.shannon %>% simulateResiduals(n=1000)
+plot(mod_dharma1)
+plotResiduals(model.shannon, rank = TRUE, quantreg = FALSE)
+visreg(model.shannon, "Lupin", scale="response", by= "County", rug=FALSE, line = list(col="black"), 
+       xlab= "Lupin present", ylab="Effective number of species (shannon) / plot") 
+
+model.shannon2 <- glmmTMB(shannon ~ Lupin +  County , family= "Gamma", data=db)
+summary(model.shannon2)
+mod_dharma1 <- model.shannon2 %>% simulateResiduals(n=1000)
+plot(mod_dharma1)
+visreg(model.shannon, "Lupin", scale="response", rug=FALSE, line = list(col="black"), 
+       xlab= "Lupin present", ylab="Effective number of species (shannon) / quadrat") 
+
+# With all data ----
 
 raw.data <- read.csv2(here("data", "Raw data.csv" ))
 
@@ -71,12 +159,12 @@ db.2 <- rename(db.2, shannon = ...5)
 db <- bind_rows(db.1,db.2)
 hist(db$shannon)
 # Run analysis
-model.shannon <- glmmTMB(shannon ~ Lupin + County + (1|Site), family= "Gamma", data=db) #county is a fixed effect and Site is random
+model.shannon <- glmmTMB(shannon ~ Lupin * County + (1|Site), family= "Gamma", data=db) #county is a fixed effect and Site is random
 summary(model.shannon)
 mod_dharma1 <- model.shannon %>% simulateResiduals(n=1000)
 plot(mod_dharma1)
 plotResiduals(model.shannon, rank = TRUE, quantreg = FALSE)
-visreg(model.shannon, "Lupin", scale="response", rug=FALSE, line = list(col="black"), 
+visreg(model.shannon, "Lupin", scale="response", by= "County", rug=FALSE, line = list(col="black"), 
        xlab= "Lupin present", ylab="Effective number of species (shannon) / quadrat") 
 
 model.shannon2 <- glmmTMB(shannon ~ Lupin +  County , family= "Gamma", data=db)
