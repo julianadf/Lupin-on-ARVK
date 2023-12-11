@@ -1,0 +1,49 @@
+Region;Site;parnr;Lupin;Neigh.habitat;Open
+East region;Brobacke;1;No;Agriculture;Open
+East region;Brobacke;1;Yes;Agriculture;Open
+East region;Brunkullsvägen;1;No;Open;Open
+East region;Brunkullsvägen;1;Yes;Open;Open
+East region;Bänntorpet;1;No;Forest;Shady
+East region;Bänntorpet;1;Yes;Forest;Shady
+East region;Enköping;1;No;Forest;Shady
+East region;Enköping;1;Yes;Forest;Shady
+East region;Gullvalla;2;No;Forest;Shady
+East region;Gullvalla;2;Yes;Forest;Shady
+East region;Kölnbacken;2;No;Agriculture;Open
+East region;Kölnbacken;2;Yes;Agriculture;Open
+East region;Lilla harnevi;2;No;Open;Open
+East region;Lilla harnevi;2;Yes;Open;Open
+East region;Odensfors;2;No;Hygge;Open
+East region;Odensfors;2;Yes;Hygge;Open
+East region;Ransta;1;No;Agriculture;Open
+East region;Ransta;1;Yes;Agriculture;Open
+East region;Rödmossa;1;No;Forest;Shady
+East region;Rödmossa;1;Yes;Forest;Shady
+East region;Solbo;2;No;Forest;Shady
+East region;Solbo;2;Yes;Forest;Shady
+East region;Österunda2;1;No;Open;Open
+East region;Österunda2;1;Yes;Open;Open
+West region;Bergsviken/Älvsbacka;1;No;Forest;Shady
+West region;Bergsviken/Älvsbacka;1;Yes;Forest;Shady
+West region;Flugbohöjden/Ettala;1;No;Forest;Shady
+West region;Flugbohöjden/Ettala;1;Yes;Forest;Shady
+West region;Gersbysäter/Gersby;1;No;Forest;Shady
+West region;Gersbysäter/Gersby;1;Yes;Open;Open
+West region;Häggstöd/Nyeds-Backa;2;No;Agriculture;Open
+West region;Häggstöd/Nyeds-Backa;2;Yes;Agriculture;Open
+West region;Jonsbol;1;No;Forest;Shady
+West region;Jonsbol;1;Yes;Open;Open
+West region;Manhem/Asphyttan;2;No;Forest;Shady
+West region;Manhem/Asphyttan;2;Yes;Forest;Shady
+West region;Nordsjö;1;No;Forest;Shady
+West region;Nordsjö;1;Yes;Forest;Shady
+West region;Nykroppa Herrhult;1;No;Forest;Shady
+West region;Nykroppa Herrhult;1;Yes;Forest;Shady
+West region;Rämmen-Haget;1;No;Open;Open
+West region;Rämmen-Haget;1;Yes;Forest;Shady
+West region;Snavlunda äng;1;No;Forest;Shady
+West region;Snavlunda äng;1;Yes;Forest;Shady
+West region;Stavkärr/Svinnersta;3;No;Forest;Shady
+West region;Stavkärr/Svinnersta;3;Yes;Forest;Shady
+West region;Torsked;1;No;Forest;Shady
+West region;Torsked;1;Yes;Open;Open

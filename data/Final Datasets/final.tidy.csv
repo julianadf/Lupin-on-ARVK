@@ -1,0 +1,655 @@
+County;Site;parnr;Lupin;Species;Veghgt.avg;Litt.avg;Light;Moisture;pH;Nitrogen;Family;Sp.length;Management.dependent;Occurrences;N;E;lat;lng;latdms;lngdms
+Uppsala;Brobacke;1;No;Achillea millefolium;4,375;0;6;2;5;5;Asteraceae;45;1;3;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Achillea ptarmica;4,375;0;5;6;4;4;Asteraceae;40;1;14;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Cirsium arvense;4,375;0;6;5;5;7;Asteraceae;95;-1;1;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Equisetum arvense;4,375;0;5;4;6;5;Equisetaceae;30;0;2;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Euphrasia nemorosa;4,375;0;5;5;3;1;Orobanchaceae;12,5;2;14;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Filipendula ulmaria;4,375;0;5;8;5;8;Rosaceae;100;0;1;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Gallium mollugo;4,375;0;5;3;5;5;Rubiaceae;65;0;9;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Hieracium sect. Tridentata;4,375;0;6;3;3;4;Asteraceae;70;0;2;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Lathyrus pratensis;4,375;0;6;5;5;5;Fabaceae;60;1;1;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Linaria vulgaris;4,375;0;6;3;5;5;Plantaginaceae;45;0;3;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Noccaea caerulescens;4,375;0;5;2;4;3;Brassicaceae;22,5;2;1;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Pilosella cymosa;4,375;0;7;2;6;5;Asteraceae;60;0;6;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Plantago major;4,375;0;5;4;5;5;Plantaginaceae;30;1;3;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Primula veris;4,375;0;5;4;7;4;Primulaceae;20;2;7;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Ranunculus acris subsp. acris;4,375;0;5;5;4;7;Ranunculaceae;45;1;1;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Ranunculus repens;4,375;0;4;7;5;7;Ranunculaceae;30;0;1;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Rumex acetosa;4,375;0;6;5;5;6;Polygonaceae;60;1;6;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Rumex acetosella;4,375;0;6;2;3;2;Polygonaceae;25;2;5;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Sagina revelierei;4,375;0;6;5;3;2;Caryophyllaceae;6;1;2;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Scorzoneroides autumnalis;4,375;0;6;5;6;5;Asteraceae;25;1;6;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Taraxacum;4,375;0;NA;NA;NA;NA;Asteraceae;NA;1;2;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Trifolium hybridum;4,375;0;6;4;6;4;Fabaceae;35;1;9;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Tripleurospermum inodorum;4,375;0;6;5;7;8;Asteraceae;50;0;4;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Tussilago farfara;4,375;0;5;6;6;5;Asteraceae;12,5;0;1;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;No;Vicia cracca;4,375;0;5;5;6;3;Fabaceae;60;1;4;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Achillea millefolium;45;0,2;6;2;5;5;Asteraceae;45;1;1;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Achillea ptarmica;45;0,2;5;6;4;4;Asteraceae;40;1;8;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Anthriscus sylvestris;45;0,2;5;5;6;7;Apiaceae;100;-1;5;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Campanula patula;45;0,2;6;3;4;4;Campanulaceae;45;1;2;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Cerastium fontanum;45;0,2;5;6;6;5;Caryophyllaceae;20;1;4;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Equisetum arvense;45;0,2;5;4;6;5;Equisetaceae;30;0;15;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Hypericum maculatum;45;0,2;5;3;3;5;Hypericaceae;55;1;1;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Lathyrus pratensis;45;0,2;6;5;5;5;Fabaceae;60;1;2;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Lupinus polyphyllus;45;0,2;5;3;2;2;Fabaceae;85;-1;16;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Myosotis arvensis;45;0,2;5;5;6;6;Boraginaceae;25;1;1;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Pilosella cymosa;45;0,2;7;2;6;5;Asteraceae;60;0;1;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Ranunculus repens;45;0,2;4;7;5;7;Ranunculaceae;30;0;8;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Rumex acetosella;45;0,2;6;2;3;2;Polygonaceae;25;2;2;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Scorzoneroides autumnalis;45;0,2;6;5;6;5;Asteraceae;25;1;3;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Taraxacum;45;0,2;NA;NA;NA;NA;Asteraceae;NA;1;5;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Trifolium medium;45;0,2;5;3;5;3;Fabaceae;27,5;1;1;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brobacke;1;Yes;Viola canina;45;0,2;5;4;3;2;Violaceae;12,5;0;1;6654622,686;573697,751;60,02222223;16,32222222;N 60° 12 20.003 ;E 16° 192 20.003 
+Uppsala;Brunkullsvägen;1;No;Achillea millefolium;10,625;1,4;6;2;5;5;Asteraceae;45;1;16;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Aethusa cynapium;10,625;1,4;5;3;7;8;Apiaceae;102,5;1;2;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Anthriscus sylvestris;10,625;1,4;5;5;6;7;Apiaceae;100;-1;1;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Equisetum arvense;10,625;1,4;5;4;6;5;Equisetaceae;30;0;16;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Fragaria vesca;10,625;1,4;4;4;5;4;Rosaceae;12,5;0;2;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Gallium mollugo;10,625;1,4;5;3;5;5;Rubiaceae;65;0;16;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Hieracium umbellatum;10,625;1,4;6;3;4;4;Asteraceae;52,5;0;11;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Leucanthemum vulgare;10,625;1,4;6;3;6;4;Asteraceae;45;1;2;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Lotus corniculatus;10,625;1,4;6;3;5;3;Fabaceae;40;2;16;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Lupinus polyphyllus;10,625;1,4;5;3;2;2;Fabaceae;85;-1;1;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Myosotis arvensis;10,625;1,4;5;5;6;6;Boraginaceae;25;1;2;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Pilosella officinarum;10,625;1,4;7;1;3;3;Asteraceae;12,5;2;1;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Rumex acetosella;10,625;1,4;6;2;3;2;Polygonaceae;25;2;2;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Trifolium hybridum;10,625;1,4;6;4;6;4;Fabaceae;35;1;2;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Veronica officinalis;10,625;1,4;5;3;5;5;Plantaginaceae;20;0;7;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;No;Vicia cracca;10,625;1,4;5;5;6;3;Fabaceae;60;1;8;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Achillea millefolium;30;1;6;2;5;5;Asteraceae;45;1;16;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Aethusa cynapium;30;1;5;3;7;8;Apiaceae;102,5;1;4;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Anthriscus sylvestris;30;1;5;5;6;7;Apiaceae;100;-1;2;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Campanula persicifolia;30;1;5;3;6;5;Campanulaceae;65;1;1;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Equisetum arvense;30;1;5;4;6;5;Equisetaceae;30;0;4;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Gallium mollugo;30;1;5;3;5;5;Rubiaceae;65;0;7;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Hieracium umbellatum;30;1;6;3;4;4;Asteraceae;52,5;0;3;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Lotus corniculatus;30;1;6;3;5;3;Fabaceae;40;2;1;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Lupinus polyphyllus;30;1;5;3;2;2;Fabaceae;85;-1;16;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Noccaea caerulescens;30;1;5;2;4;3;Brassicaceae;22,5;2;2;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Ranunculus acris subsp. acris;30;1;5;5;4;7;Ranunculaceae;45;1;1;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Rumex acetosa;30;1;6;5;5;6;Polygonaceae;60;1;4;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Rumex acetosella;30;1;6;2;3;2;Polygonaceae;25;2;1;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Taraxacum;30;1;NA;NA;NA;NA;Asteraceae;NA;1;2;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Tragopogon pratensis;30;1;7;2;7;6;Asteraceae;55;1;1;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Trifolium medium;30;1;5;3;5;3;Fabaceae;27,5;1;1;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Brunkullsvägen;1;Yes;Vaccinium uliginosum;30;1;5;6;2;2;Ericaceae;40;-1;1;6644062,999;612703,008;59,91861111;17,01583333;N 59° 552 7.003 ;E 17° 02 57.003 
+Uppsala;Bänntorpet;1;No;Achillea millefolium;3,75;2,2;6;2;5;5;Asteraceae;45;1;8;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Anthriscus sylvestris;3,75;2,2;5;5;6;7;Apiaceae;100;-1;12;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Cirsium heterophyllum;3,75;2,2;5;5;5;7;Asteraceae;90;0;1;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Equisetum sylvaticum;3,75;2,2;4;5;2;3;Equisetaceae;40;-1;4;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Geranium sylvaticum;3,75;2,2;4;5;5;5;Geraniaceae;47,5;0;4;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Hieracium sect. Hieracium agg.;3,75;2,2;3;5;6;5;Asteraceae;37,5;0;1;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Hieracium sect. Tridentata;3,75;2,2;6;3;3;4;Asteraceae;70;0;3;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Hieracium umbellatum;3,75;2,2;6;3;4;4;Asteraceae;52,5;0;13;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Lathyrus linifolius;3,75;2,2;4;3;3;3;Fabaceae;25;1;1;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Lathyrus pratensis;3,75;2,2;6;5;5;5;Fabaceae;60;1;4;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Leucanthemum vulgare;3,75;2,2;6;3;6;4;Asteraceae;45;1;2;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Lupinus polyphyllus;3,75;2,2;5;3;2;2;Fabaceae;85;-1;3;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Luzula multiflora;3,75;2,2;5;3;4;4;Juncaceae;30;2;1;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Luzula pilosa;3,75;2,2;3;4;2;4;Juncaceae;17,5;0;1;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Noccaea caerulescens;3,75;2,2;5;2;4;3;Brassicaceae;22,5;2;7;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Ranunculus acris subsp. acris;3,75;2,2;5;5;4;7;Ranunculaceae;45;1;4;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Ranunculus repens;3,75;2,2;4;7;5;7;Ranunculaceae;30;0;3;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Rubus saxatilis;3,75;2,2;3;5;5;5;Rosaceae;22,5;-1;16;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Solidago virgaurea;3,75;2,2;4;4;4;4;Asteraceae;62,5;0;2;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Taraxacum;3,75;2,2;NA;NA;NA;NA;Asteraceae;NA;1;6;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Trifolium hybridum;3,75;2,2;6;4;6;4;Fabaceae;35;1;1;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;No;Tussilago farfara;3,75;2,2;5;6;6;5;Asteraceae;12,5;0;9;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Achillea millefolium;33,125;1,6;6;2;5;5;Asteraceae;45;1;3;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Anthriscus sylvestris;33,125;1,6;5;5;6;7;Apiaceae;100;-1;8;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Chamaenerion angustifolium;33,125;1,6;5;4;3;7;Onagraceae;115;-1;1;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Cirsium heterophyllum;33,125;1,6;5;5;5;7;Asteraceae;90;0;12;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Equisetum sylvaticum;33,125;1,6;4;5;2;3;Equisetaceae;40;-1;2;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Fragaria vesca;33,125;1,6;4;4;5;4;Rosaceae;12,5;0;1;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Geranium sylvaticum;33,125;1,6;4;5;5;5;Geraniaceae;47,5;0;3;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Hieracium sect. Hieracium agg.;33,125;1,6;3;5;6;5;Asteraceae;37,5;0;7;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Hieracium sect. Tridentata;33,125;1,6;6;3;3;4;Asteraceae;70;0;1;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Hieracium umbellatum;33,125;1,6;6;3;4;4;Asteraceae;52,5;0;1;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Lathyrus linifolius;33,125;1,6;4;3;3;3;Fabaceae;25;1;2;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Lathyrus pratensis;33,125;1,6;6;5;5;5;Fabaceae;60;1;3;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Leucanthemum vulgare;33,125;1,6;6;3;6;4;Asteraceae;45;1;3;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Lupinus polyphyllus;33,125;1,6;5;3;2;2;Fabaceae;85;-1;16;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Ranunculus acris subsp. acris;33,125;1,6;5;5;4;7;Ranunculaceae;45;1;3;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Solidago virgaurea;33,125;1,6;4;4;4;4;Asteraceae;62,5;0;5;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Taraxacum;33,125;1,6;NA;NA;NA;NA;Asteraceae;NA;1;1;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Bänntorpet;1;Yes;Vicia cracca;33,125;1,6;5;5;6;3;Fabaceae;60;1;3;6643046,881;602226,068;59,91222222;16,82805555;N 59° 542 44.003 ;E 16° 492 41.003 
+Uppsala;Enköping;1;No;Achillea millefolium;2,5;1,4;6;2;5;5;Asteraceae;45;1;6;6616274,8;617979,682;59,66777778;17,09444444;N 59° 402 4.003 ;E 17° 52 40.003 
+Uppsala;Enköping;1;No;Galium boreale;2,5;1,4;5;5;7;4;Rubiaceae;45;1;2;6616274,8;617979,682;59,66777778;17,09444444;N 59° 402 4.003 ;E 17° 52 40.003 
+Uppsala;Enköping;1;No;Galium verum;2,5;1,4;6;2;5;4;Rubiaceae;35;1;3;6616274,8;617979,682;59,66777778;17,09444444;N 59° 402 4.003 ;E 17° 52 40.003 
+Uppsala;Enköping;1;No;Lupinus polyphyllus;2,5;1,4;5;3;2;2;Fabaceae;85;-1;1;6616274,8;617979,682;59,66777778;17,09444444;N 59° 402 4.003 ;E 17° 52 40.003 
+Uppsala;Enköping;1;No;Trifolium medium;2,5;1,4;5;3;5;3;Fabaceae;27,5;1;16;6616274,8;617979,682;59,66777778;17,09444444;N 59° 402 4.003 ;E 17° 52 40.003 
+Uppsala;Enköping;1;Yes;Fragaria vesca;18,75;1,6;4;4;5;4;Rosaceae;12,5;0;6;6616274,8;617979,682;59,66777778;17,09444444;N 59° 402 4.003 ;E 17° 52 40.003 
+Uppsala;Enköping;1;Yes;Galium boreale;18,75;1,6;5;5;7;4;Rubiaceae;45;1;4;6616274,8;617979,682;59,66777778;17,09444444;N 59° 402 4.003 ;E 17° 52 40.003 
+Uppsala;Enköping;1;Yes;Gallium mollugo;18,75;1,6;5;3;5;5;Rubiaceae;65;0;9;6616274,8;617979,682;59,66777778;17,09444444;N 59° 402 4.003 ;E 17° 52 40.003 
+Uppsala;Enköping;1;Yes;Geum rivale;18,75;1,6;4;6;6;6;Rosaceae;35;1;2;6616274,8;617979,682;59,66777778;17,09444444;N 59° 402 4.003 ;E 17° 52 40.003 
+Uppsala;Enköping;1;Yes;Lupinus polyphyllus;18,75;1,6;5;3;2;2;Fabaceae;85;-1;16;6616274,8;617979,682;59,66777778;17,09444444;N 59° 402 4.003 ;E 17° 52 40.003 
+Uppsala;Enköping;1;Yes;Trifolium hybridum;18,75;1,6;6;4;6;4;Fabaceae;35;1;1;6616274,8;617979,682;59,66777778;17,09444444;N 59° 402 4.003 ;E 17° 52 40.003 
+Uppsala;Enköping;1;Yes;Trifolium medium;18,75;1,6;5;3;5;3;Fabaceae;27,5;1;12;6616274,8;617979,682;59,66777778;17,09444444;N 59° 402 4.003 ;E 17° 52 40.003 
+Uppsala;Enköping;1;Yes;Veronica chamaedrys;18,75;1,6;4;4;5;5;Plantaginaceae;20;1;7;6616274,8;617979,682;59,66777778;17,09444444;N 59° 402 4.003 ;E 17° 52 40.003 
+Uppsala;Gullvalla;2;No;Anthriscus sylvestris;1,875;0;5;5;6;7;Apiaceae;100;-1;2;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;No;Campanula rotundifolia;1,875;0;6;3;5;4;Campanulaceae;30;2;4;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;No;Cota tinctoria;1,875;0;6;2;6;3;Asteraceae;45;2;1;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;No;Fragaria vesca;1,875;0;4;4;5;4;Rosaceae;12,5;0;15;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;No;Hieracium sect. Tridentata;1,875;0;6;3;3;4;Asteraceae;70;0;3;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;No;Lupinus polyphyllus;1,875;0;5;3;2;2;Fabaceae;85;-1;3;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;No;Pilosella officinarum;1,875;0;7;1;3;3;Asteraceae;12,5;2;11;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;No;Rubus idaeus;1,875;0;5;5;3;6;Rosaceae;125;-1;1;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;No;Rubus saxatilis;1,875;0;3;5;5;5;Rosaceae;22,5;-1;4;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;No;Rumex acetosa;1,875;0;6;5;5;6;Polygonaceae;60;1;1;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;No;Taraxacum;1,875;0;NA;NA;NA;NA;Asteraceae;NA;1;2;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;No;Trifolium medium;1,875;0;5;3;5;3;Fabaceae;27,5;1;3;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;No;Viola canina;1,875;0;5;4;3;2;Violaceae;12,5;0;14;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;Yes;Achillea millefolium;73,75;0;6;2;5;5;Asteraceae;45;1;3;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;Yes;Anthriscus sylvestris;73,75;0;5;5;6;7;Apiaceae;100;-1;1;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;Yes;Campanula rotundifolia;73,75;0;6;3;5;4;Campanulaceae;30;2;6;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;Yes;Cota tinctoria;73,75;0;6;2;6;3;Asteraceae;45;2;2;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;Yes;Fragaria vesca;73,75;0;4;4;5;4;Rosaceae;12,5;0;16;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;Yes;Gallium mollugo;73,75;0;5;3;5;5;Rubiaceae;65;0;1;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;Yes;Lupinus polyphyllus;73,75;0;5;3;2;2;Fabaceae;85;-1;16;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;Yes;Noccaea caerulescens;73,75;0;5;2;4;3;Brassicaceae;22,5;2;1;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;Yes;Pilosella officinarum;73,75;0;7;1;3;3;Asteraceae;12,5;2;6;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;Yes;Pimpinella saxifraga;73,75;0;5;3;6;3;Apiaceae;12,5;2;2;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;Yes;Taraxacum;73,75;0;NA;NA;NA;NA;Asteraceae;NA;1;1;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;Yes;Tragopogon pratensis;73,75;0;7;2;7;6;Asteraceae;55;1;2;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Gullvalla;2;Yes;Viola canina;73,75;0;5;4;3;2;Violaceae;12,5;0;11;6643020,781;581185,362;59,91666667;16,45194444;N 59° 552 0.003 ;E 16° 272 7.003 
+Uppsala;Kölnbacken;2;No;Achillea millefolium;12,5;0,2;6;2;5;5;Asteraceae;45;1;7;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Anthriscus sylvestris;12,5;0,2;5;5;6;7;Apiaceae;100;-1;5;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Cirsium arvense;12,5;0,2;6;5;5;7;Asteraceae;95;-1;12;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Equisetum arvense;12,5;0,2;5;4;6;5;Equisetaceae;30;0;14;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Gallium mollugo;12,5;0,2;5;3;5;5;Rubiaceae;65;0;3;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Hieracium umbellatum;12,5;0,2;6;3;4;4;Asteraceae;52,5;0;1;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Hypericum maculatum;12,5;0,2;5;3;3;5;Hypericaceae;55;1;2;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Lathyrus pratensis;12,5;0,2;6;5;5;5;Fabaceae;60;1;2;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Lupinus polyphyllus;12,5;0,2;5;3;2;2;Fabaceae;85;-1;1;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Pilosella cymosa;12,5;0,2;7;2;6;5;Asteraceae;60;0;1;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Pilosella officinarum;12,5;0,2;7;1;3;3;Asteraceae;12,5;2;1;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Rumex acetosa;12,5;0,2;6;5;5;6;Polygonaceae;60;1;1;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Rumex acetosella;12,5;0,2;6;2;3;2;Polygonaceae;25;2;1;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Scorzoneroides autumnalis;12,5;0,2;6;5;6;5;Asteraceae;25;1;2;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Taraxacum;12,5;0,2;NA;NA;NA;NA;Asteraceae;NA;1;6;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;No;Tragopogon pratensis;12,5;0,2;7;2;7;6;Asteraceae;55;1;4;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;Yes;Achillea millefolium;66,25;0,4;6;2;5;5;Asteraceae;45;1;2;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;Yes;Anthriscus sylvestris;66,25;0,4;5;5;6;7;Apiaceae;100;-1;7;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;Yes;Cirsium arvense;66,25;0,4;6;5;5;7;Asteraceae;95;-1;1;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;Yes;Equisetum arvense;66,25;0,4;5;4;6;5;Equisetaceae;30;0;15;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;Yes;Leucanthemum vulgare;66,25;0,4;6;3;6;4;Asteraceae;45;1;1;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;Yes;Lupinus polyphyllus;66,25;0,4;5;3;2;2;Fabaceae;85;-1;16;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;Yes;Ranunculus repens;66,25;0,4;4;7;5;7;Ranunculaceae;30;0;6;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;Yes;Rumex acetosa;66,25;0,4;6;5;5;6;Polygonaceae;60;1;1;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;Yes;Taraxacum;66,25;0,4;NA;NA;NA;NA;Asteraceae;NA;1;7;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;Yes;Tragopogon pratensis;66,25;0,4;7;2;7;6;Asteraceae;55;1;1;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Kölnbacken;2;Yes;Trifolium medium;66,25;0,4;5;3;5;3;Fabaceae;27,5;1;1;6647467,838;571776,943;59,95833333;16,28527779;N 59° 572 30.003 ;E 16° 172 7.003 
+Uppsala;Lilla harnevi;2;No;Cirsium arvense;6,875;2,4;6;5;5;7;Asteraceae;95;-1;12;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;No;Gallium mollugo;6,875;2,4;5;3;5;5;Rubiaceae;65;0;5;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;No;Lupinus polyphyllus;6,875;2,4;5;3;2;2;Fabaceae;85;-1;1;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;No;Potentilla reptans;6,875;2,4;6;4;7;6;Rosaceae;15;0;7;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;No;Ranunculus acris subsp. acris;6,875;2,4;5;5;4;7;Ranunculaceae;45;1;1;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;No;Vicia cracca;6,875;2,4;5;5;6;3;Fabaceae;60;1;4;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;No;Vicia tetrasperma;6,875;2,4;6;2;7;3;Fabaceae;42,5;1;3;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;Yes;Cirsium arvense;63,75;2;6;5;5;7;Asteraceae;95;-1;11;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;Yes;Gallium mollugo;63,75;2;5;3;5;5;Rubiaceae;65;0;4;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;Yes;Lupinus polyphyllus;63,75;2;5;3;2;2;Fabaceae;85;-1;16;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;Yes;Potentilla reptans;63,75;2;6;4;7;6;Rosaceae;15;0;4;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;Yes;Succisa pratensis;63,75;2;5;6;5;2;Caprifoliaceae;42,5;1;2;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;Yes;Trifolium repens;63,75;2;6;5;6;4;Fabaceae;20;1;1;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;Yes;Urtica dioica;63,75;2;4;5;5;6;Urticaceae;115;-1;4;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;Yes;Vicia cracca;63,75;2;5;5;6;3;Fabaceae;60;1;1;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Lilla harnevi;2;Yes;Vicia tetrasperma;63,75;2;6;2;7;3;Fabaceae;42,5;1;1;6622216,136;617917,168;59,72111111;17,09666666;N 59° 432 16.003 ;E 17° 52 48.003 
+Uppsala;Odensfors;2;No;Alchemilla vulgaris;13,75;1;NA;NA;NA;NA;Rosaceae;25;1;16;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Anemone nemorosa;13,75;1;4;5;4;6;Ranunculaceae;19;-1;4;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Athyrium filix-femina;13,75;1;2;7;4;7;Athyriaceae;85;-1;2;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Campanula rotundifolia;13,75;1;6;3;5;4;Campanulaceae;30;2;6;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Equisetum arvense;13,75;1;5;4;6;5;Equisetaceae;30;0;8;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Equisetum sylvaticum;13,75;1;4;5;2;3;Equisetaceae;40;-1;3;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Filipendula ulmaria;13,75;1;5;8;5;8;Rosaceae;100;0;1;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Hieracium sect. Vulgata;13,75;1;4;4;4;4;Asteraceae;60;0;1;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Hieracium umbellatum;13,75;1;6;3;4;4;Asteraceae;52,5;0;1;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Hypericum maculatum;13,75;1;5;3;3;5;Hypericaceae;55;1;2;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Lapsana communis;13,75;1;5;5;5;7;Asteraceae;70;1;4;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Leucanthemum vulgare;13,75;1;6;3;6;4;Asteraceae;45;1;11;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Lupinus polyphyllus;13,75;1;5;3;2;2;Fabaceae;85;-1;2;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Potentilla erecta;13,75;1;5;6;4;3;Rosaceae;30;1;4;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Ranunculus acris subsp. acris;13,75;1;5;5;4;7;Ranunculaceae;45;1;14;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Rubus idaeus;13,75;1;5;5;3;6;Rosaceae;125;-1;1;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Taraxacum;13,75;1;NA;NA;NA;NA;Asteraceae;NA;1;5;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Tragopogon pratensis;13,75;1;7;2;7;6;Asteraceae;55;1;3;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Trifolium medium;13,75;1;5;3;5;3;Fabaceae;27,5;1;2;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Tussilago farfara;13,75;1;5;6;6;5;Asteraceae;12,5;0;9;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Veronica chamaedrys;13,75;1;4;4;5;5;Plantaginaceae;20;1;4;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;No;Veronica officinalis;13,75;1;5;3;5;5;Plantaginaceae;20;0;1;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Achillea millefolium;53,75;0,2;6;2;5;5;Asteraceae;45;1;2;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Alchemilla vulgaris;53,75;0,2;NA;NA;NA;NA;Rosaceae;25;1;8;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Athyrium filix-femina;53,75;0,2;2;7;4;7;Athyriaceae;85;-1;6;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Cirsium arvense;53,75;0,2;6;5;5;7;Asteraceae;95;-1;2;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Fragaria vesca;53,75;0,2;4;4;5;4;Rosaceae;12,5;0;4;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Gallium mollugo;53,75;0,2;5;3;5;5;Rubiaceae;65;0;4;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Geum rivale;53,75;0,2;4;6;6;6;Rosaceae;35;1;4;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Leucanthemum vulgare;53,75;0,2;6;3;6;4;Asteraceae;45;1;1;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Lupinus polyphyllus;53,75;0,2;5;3;2;2;Fabaceae;85;-1;16;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Maianthemum bifolium;53,75;0,2;3;4;3;3;Asparagaceae;12,5;-1;1;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Paris quadrifolia;53,75;0,2;2;5;6;8;Melanthiaceae;22,5;-1;2;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Pilosella cymosa;53,75;0,2;7;2;6;5;Asteraceae;60;0;1;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Potentilla erecta;53,75;0,2;5;6;4;3;Rosaceae;30;1;1;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Ranunculus acris subsp. acris;53,75;0,2;5;5;4;7;Ranunculaceae;45;1;5;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Ranunculus repens;53,75;0,2;4;7;5;7;Ranunculaceae;30;0;4;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Taraxacum;53,75;0,2;NA;NA;NA;NA;Asteraceae;NA;1;1;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Trifolium medium;53,75;0,2;5;3;5;3;Fabaceae;27,5;1;12;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Tussilago farfara;53,75;0,2;5;6;6;5;Asteraceae;12,5;0;2;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Odensfors;2;Yes;Viola riviniana;53,75;0,2;3;5;5;4;Violaceae;15;0;6;6680860,924;630155,667;60,24361111;17,35111111;N 60° 142 37.003 ;E 17° 212 4.003 
+Uppsala;Ransta;1;No;Achillea millefolium;14,375;1,4;6;2;5;5;Asteraceae;45;1;16;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;No;Anthriscus sylvestris;14,375;1,4;5;5;6;7;Apiaceae;100;-1;1;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;No;Cirsium arvense;14,375;1,4;6;5;5;7;Asteraceae;95;-1;1;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;No;Equisetum arvense;14,375;1,4;5;4;6;5;Equisetaceae;30;0;9;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;No;Fragaria vesca;14,375;1,4;4;4;5;4;Rosaceae;12,5;0;8;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;No;Gallium mollugo;14,375;1,4;5;3;5;5;Rubiaceae;65;0;12;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;No;Geum urbanum;14,375;1,4;3;4;6;7;Rosaceae;50;0;4;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;No;Hieracium sect. Tridentata;14,375;1,4;6;3;3;4;Asteraceae;70;0;4;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;No;Lathyrus pratensis;14,375;1,4;6;5;5;5;Fabaceae;60;1;12;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;No;Ranunculus acris subsp. acris;14,375;1,4;5;5;4;7;Ranunculaceae;45;1;4;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;No;Rumex longifolius;14,375;1,4;6;4;4;7;Polygonaceae;90;-1;1;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;No;Stachys palustris;14,375;1,4;7;6;5;7;Lamiaceae;65;0;10;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;No;Taraxacum;14,375;1,4;NA;NA;NA;NA;Asteraceae;NA;1;2;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;No;Trifolium medium;14,375;1,4;5;3;5;3;Fabaceae;27,5;1;10;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;No;Veronica chamaedrys;14,375;1,4;4;4;5;5;Plantaginaceae;20;1;13;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;Yes;Achillea millefolium;51,25;2;6;2;5;5;Asteraceae;45;1;14;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;Yes;Anthriscus sylvestris;51,25;2;5;5;6;7;Apiaceae;100;-1;2;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;Yes;Cirsium arvense;51,25;2;6;5;5;7;Asteraceae;95;-1;6;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;Yes;Equisetum arvense;51,25;2;5;4;6;5;Equisetaceae;30;0;3;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;Yes;Galium boreale;51,25;2;5;5;7;4;Rubiaceae;45;1;1;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;Yes;Geum urbanum;51,25;2;3;4;6;7;Rosaceae;50;0;1;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;Yes;Hieracium sect. Tridentata;51,25;2;6;3;3;4;Asteraceae;70;0;5;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;Yes;Lathyrus pratensis;51,25;2;6;5;5;5;Fabaceae;60;1;2;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;Yes;Lupinus polyphyllus;51,25;2;5;3;2;2;Fabaceae;85;-1;16;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;Yes;Taraxacum;51,25;2;NA;NA;NA;NA;Asteraceae;NA;1;4;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;Yes;Vicia sepium;51,25;2;3;4;6;4;Fabaceae;45;1;1;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Ransta;1;Yes;Viola riviniana;51,25;2;3;5;5;4;Violaceae;15;0;2;6649490,25;590583,092;59,97277778;16,62277778;N 59° 582 22.003 ;E 16° 372 22.003 
+Uppsala;Rödmossa;1;No;Achillea millefolium;6,875;2,2;6;2;5;5;Asteraceae;45;1;1;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Anthyllis vulneraria;6,875;2,2;7;3;7;3;Fabaceae;32,5;0;4;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Cerastium fontanum;6,875;2,2;5;6;6;5;Caryophyllaceae;20;1;2;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Cirsium arvense;6,875;2,2;6;5;5;7;Asteraceae;95;-1;9;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Equisetum arvense;6,875;2,2;5;4;6;5;Equisetaceae;30;0;12;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Equisetum sylvaticum;6,875;2,2;4;5;2;3;Equisetaceae;40;-1;6;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Galium boreale;6,875;2,2;5;5;7;4;Rubiaceae;45;1;1;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Gallium mollugo;6,875;2,2;5;3;5;5;Rubiaceae;65;0;11;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Lathyrus pratensis;6,875;2,2;6;5;5;5;Fabaceae;60;1;3;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Leucanthemum vulgare;6,875;2,2;6;3;6;4;Asteraceae;45;1;3;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Luzula multiflora;6,875;2,2;5;3;4;4;Juncaceae;30;2;1;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Plantago major;6,875;2,2;5;4;5;5;Plantaginaceae;30;1;2;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Ranunculus acris subsp. acris;6,875;2,2;5;5;4;7;Ranunculaceae;45;1;6;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Rumex acetosa;6,875;2,2;6;5;5;6;Polygonaceae;60;1;2;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Stellaria graminea;6,875;2,2;5;4;5;4;Caryophyllaceae;20;1;1;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Taraxacum;6,875;2,2;NA;NA;NA;NA;Asteraceae;NA;1;10;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Trifolium hybridum;6,875;2,2;6;4;6;4;Fabaceae;35;1;16;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Tripleurospermum inodorum;6,875;2,2;6;5;7;8;Asteraceae;50;0;2;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;No;Vicia cracca;6,875;2,2;5;5;6;3;Fabaceae;60;1;1;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Achillea millefolium;63,75;3,6;6;2;5;5;Asteraceae;45;1;9;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Cirsium arvense;63,75;3,6;6;5;5;7;Asteraceae;95;-1;9;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Equisetum;63,75;3,6;NA;NA;NA;NA;Equisetaceae;NA;0;1;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Equisetum sylvaticum;63,75;3,6;4;5;2;3;Equisetaceae;40;-1;10;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Gallium mollugo;63,75;3,6;5;3;5;5;Rubiaceae;65;0;13;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Lathyrus pratensis;63,75;3,6;6;5;5;5;Fabaceae;60;1;1;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Leucanthemum vulgare;63,75;3,6;6;3;6;4;Asteraceae;45;1;2;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Lupinus polyphyllus;63,75;3,6;5;3;2;2;Fabaceae;85;-1;16;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Plantago major;63,75;3,6;5;4;5;5;Plantaginaceae;30;1;4;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Ranunculus acris subsp. acris;63,75;3,6;5;5;4;7;Ranunculaceae;45;1;4;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Sonchus oleraceus;63,75;3,6;6;4;7;8;Asteraceae;65;0;1;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Taraxacum;63,75;3,6;NA;NA;NA;NA;Asteraceae;NA;1;15;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Trifolium hybridum;63,75;3,6;6;4;6;4;Fabaceae;35;1;9;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Trifolium medium;63,75;3,6;5;3;5;3;Fabaceae;27,5;1;15;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Rödmossa;1;Yes;Tripleurospermum inodorum;63,75;3,6;6;5;7;8;Asteraceae;50;0;9;6661520,071;602055,72;60,07805556;16,83416667;N 60° 42 41.003 ;E 16° 502 3.003 
+Uppsala;Solbo;2;No;Achillea millefolium;11,875;1;6;2;5;5;Asteraceae;45;1;16;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Anthriscus sylvestris;11,875;1;5;5;6;7;Apiaceae;100;-1;5;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Equisetum arvense;11,875;1;5;4;6;5;Equisetaceae;30;0;7;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Equisetum sylvaticum;11,875;1;4;5;2;3;Equisetaceae;40;-1;6;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Fragaria vesca;11,875;1;4;4;5;4;Rosaceae;12,5;0;4;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Gallium mollugo;11,875;1;5;3;5;5;Rubiaceae;65;0;7;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Hieracium sect. Bifida;11,875;1;5;3;6;3;Asteraceae;NA;0;1;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Hieracium umbellatum;11,875;1;6;3;4;4;Asteraceae;52,5;0;9;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Hypericum maculatum;11,875;1;5;3;3;5;Hypericaceae;55;1;1;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Leucanthemum vulgare;11,875;1;6;3;6;4;Asteraceae;45;1;6;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Lotus corniculatus;11,875;1;6;3;5;3;Fabaceae;40;2;8;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Pilosella cymosa;11,875;1;7;2;6;5;Asteraceae;60;0;15;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Pilosella officinarum;11,875;1;7;1;3;3;Asteraceae;12,5;2;2;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Prunella vulgaris;11,875;1;5;6;6;5;Lamiaceae;15;2;2;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Ranunculus repens;11,875;1;4;7;5;7;Ranunculaceae;30;0;5;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Scorzoneroides autumnalis;11,875;1;6;5;6;5;Asteraceae;25;1;2;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Taraxacum;11,875;1;NA;NA;NA;NA;Asteraceae;NA;1;4;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Tragopogon pratensis;11,875;1;7;2;7;6;Asteraceae;55;1;1;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Trifolium hybridum;11,875;1;6;4;6;4;Fabaceae;35;1;5;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;No;Trifolium medium;11,875;1;5;3;5;3;Fabaceae;27,5;1;9;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;Yes;Achillea millefolium;61,25;0,8;6;2;5;5;Asteraceae;45;1;4;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;Yes;Anthriscus sylvestris;61,25;0,8;5;5;6;7;Apiaceae;100;-1;5;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;Yes;Campanula rotundifolia;61,25;0,8;6;3;5;4;Campanulaceae;30;2;1;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;Yes;Equisetum arvense;61,25;0,8;5;4;6;5;Equisetaceae;30;0;4;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;Yes;Equisetum sylvaticum;61,25;0,8;4;5;2;3;Equisetaceae;40;-1;3;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;Yes;Gallium mollugo;61,25;0,8;5;3;5;5;Rubiaceae;65;0;7;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;Yes;Geum urbanum;61,25;0,8;3;4;6;7;Rosaceae;50;0;10;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;Yes;Hieracium sect. Bifida;61,25;0,8;5;3;6;3;Asteraceae;NA;0;1;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;Yes;Lupinus polyphyllus;61,25;0,8;5;3;2;2;Fabaceae;85;-1;16;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;Yes;Ranunculus repens;61,25;0,8;4;7;5;7;Ranunculaceae;30;0;1;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;Yes;Rubus fruticosus;61,25;0,8;NA;NA;NA;NA;Rosaceae;NA;-1;NA;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;Yes;Rubus idaeus;61,25;0,8;5;5;3;6;Rosaceae;125;-1;1;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Solbo;2;Yes;Tussilago farfara;61,25;0,8;5;6;6;5;Asteraceae;12,5;0;3;6637867,687;599567,525;59,86638889;16,77805556;N 59° 512 59.003 ;E 16° 462 41.003 
+Uppsala;Österunda2;1;No;Anemone nemorosa;11,25;1;4;5;4;6;Ranunculaceae;19;-1;1;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Bunias orientalis;11,25;1;5;3;7;7;Brassicaceae;85;-1;1;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Carex flava;11,25;1;5;8;7;5;Cyperaceae;35;0;2;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Cerastium fontanum;11,25;1;5;6;6;5;Caryophyllaceae;20;1;8;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Cirsium arvense;11,25;1;6;5;5;7;Asteraceae;95;-1;4;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Equisetum arvense;11,25;1;5;4;6;5;Equisetaceae;30;0;8;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Equisetum sylvaticum;11,25;1;4;5;2;3;Equisetaceae;40;-1;13;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Lapsana communis;11,25;1;5;5;5;7;Asteraceae;70;1;1;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Lathyrus pratensis;11,25;1;6;5;5;5;Fabaceae;60;1;3;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Leucanthemum vulgare;11,25;1;6;3;6;4;Asteraceae;45;1;1;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Lupinus polyphyllus;11,25;1;5;3;2;2;Fabaceae;85;-1;1;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Lychnis flos-cuculi;11,25;1;5;7;5;6;Caryophyllaceae;45;1;3;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Myosotis scorpioides;11,25;1;5;9;5;7;Boraginaceae;30;1;3;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Ranunculus acris subsp. acris;11,25;1;5;5;4;7;Ranunculaceae;45;1;11;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Sagina procumbens;11,25;1;5;4;6;6;Caryophyllaceae;3,5;2;2;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Scleranthus perennis;11,25;1;6;1;3;2;Caryophyllaceae;10;1;1;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Succisa pratensis;11,25;1;5;6;5;2;Caprifoliaceae;42,5;1;1;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Taraxacum;11,25;1;NA;NA;NA;NA;Asteraceae;NA;1;1;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Trifolium hybridum;11,25;1;6;4;6;4;Fabaceae;35;1;9;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Trifolium medium;11,25;1;5;3;5;3;Fabaceae;27,5;1;1;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Trifolium repens;11,25;1;6;5;6;4;Fabaceae;20;1;3;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Tripleurospermum inodorum;11,25;1;6;5;7;8;Asteraceae;50;0;8;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Veronica arvensis;11,25;1;6;4;6;3;Plantaginaceae;15;1;7;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Veronica beccabunga;11,25;1;5;10;6;6;Plantaginaceae;40;0;3;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;No;Vicia cracca;11,25;1;5;5;6;3;Fabaceae;60;1;4;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Achillea millefolium;46,25;0,2;6;2;5;5;Asteraceae;45;1;1;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Campanula persicifolia;46,25;0,2;5;3;6;5;Campanulaceae;65;1;3;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Carex flacca;46,25;0,2;5;6;8;2;Cyperaceae;32,5;1;2;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Carex flava;46,25;0,2;5;8;7;5;Cyperaceae;35;0;2;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Carex leporina;46,25;0,2;4;5;3;4;Cyperaceae;25;0;4;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Cerastium fontanum;46,25;0,2;5;6;6;5;Caryophyllaceae;20;1;6;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Cirsium arvense;46,25;0,2;6;5;5;7;Asteraceae;95;-1;5;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Equisetum arvense;46,25;0,2;5;4;6;5;Equisetaceae;30;0;7;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Equisetum sylvaticum;46,25;0,2;4;5;2;3;Equisetaceae;40;-1;14;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Filipendula ulmaria;46,25;0,2;5;8;5;8;Rosaceae;100;0;3;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Gallium mollugo;46,25;0,2;5;3;5;5;Rubiaceae;65;0;1;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Lapsana communis;46,25;0,2;5;5;5;7;Asteraceae;70;1;1;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Lathyrus pratensis;46,25;0,2;6;5;5;5;Fabaceae;60;1;1;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Lupinus polyphyllus;46,25;0,2;5;3;2;2;Fabaceae;85;-1;16;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Myosotis scorpioides;46,25;0,2;5;9;5;7;Boraginaceae;30;1;1;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Ranunculus acris subsp. acris;46,25;0,2;5;5;4;7;Ranunculaceae;45;1;4;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Sagina procumbens;46,25;0,2;5;4;6;6;Caryophyllaceae;3,5;2;2;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Taraxacum;46,25;0,2;NA;NA;NA;NA;Asteraceae;NA;1;3;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Trifolium hybridum;46,25;0,2;6;4;6;4;Fabaceae;35;1;4;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Trifolium medium;46,25;0,2;5;3;5;3;Fabaceae;27,5;1;2;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Trifolium repens;46,25;0,2;6;5;6;4;Fabaceae;20;1;4;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Tripleurospermum inodorum;46,25;0,2;6;5;7;8;Asteraceae;50;0;7;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Veronica arvensis;46,25;0,2;6;4;6;3;Plantaginaceae;15;1;5;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Veronica beccabunga;46,25;0,2;5;10;6;6;Plantaginaceae;40;0;3;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Uppsala;Österunda2;1;Yes;Vicia cracca;46,25;0,2;5;5;6;3;Fabaceae;60;1;6;6633357,23;617829,747;59,82111111;17,10138889;N 59° 492 16.003 ;E 17° 62 5.003 
+Värmland;Bergsviken/Älvsbacka;1;No;Aegopodium podagraria;25,625;2,7375;3;5;6;5;Apiaceae;65;-1;3;6621444,286;424643,157;59,72408;13,66006;N 59° 432 26.693 ;E 13° 392 36.223 
+Värmland;Bergsviken/Älvsbacka;1;No;Alchemilla vulgaris;25,625;2,7375;NA;NA;NA;NA;Rosaceae;25;1;3;6621444,286;424643,157;59,72408;13,66006;N 59° 432 26.693 ;E 13° 392 36.223 
+Värmland;Bergsviken/Älvsbacka;1;No;Anthriscus sylvestris;25,625;2,7375;5;5;6;7;Apiaceae;100;-1;12;6621444,286;424643,157;59,72408;13,66006;N 59° 432 26.693 ;E 13° 392 36.223 
+Värmland;Bergsviken/Älvsbacka;1;No;Cerastium fontanum;25,625;2,7375;5;6;6;5;Caryophyllaceae;20;1;3;6621444,286;424643,157;59,72408;13,66006;N 59° 432 26.693 ;E 13° 392 36.223 
+Värmland;Bergsviken/Älvsbacka;1;No;Fragaria vesca;25,625;2,7375;4;4;5;4;Rosaceae;12,5;0;3;6621444,286;424643,157;59,72408;13,66006;N 59° 432 26.693 ;E 13° 392 36.223 
+Värmland;Bergsviken/Älvsbacka;1;No;Geranium sylvaticum;25,625;2,7375;4;5;5;5;Geraniaceae;47,5;0;2;6621444,286;424643,157;59,72408;13,66006;N 59° 432 26.693 ;E 13° 392 36.223 
+Värmland;Bergsviken/Älvsbacka;1;No;Geum rivale;25,625;2,7375;4;6;6;6;Rosaceae;35;1;2;6621444,286;424643,157;59,72408;13,66006;N 59° 432 26.693 ;E 13° 392 36.223 
+Värmland;Bergsviken/Älvsbacka;1;No;Moehringia trinervia;25,625;2,7375;3;4;5;6;Caryophyllaceae;25;0;2;6621444,286;424643,157;59,72408;13,66006;N 59° 432 26.693 ;E 13° 392 36.223 
+Värmland;Bergsviken/Älvsbacka;1;No;Ranunculus acris subsp. acris;25,625;2,7375;5;5;4;7;Ranunculaceae;45;1;8;6621444,286;424643,157;59,72408;13,66006;N 59° 432 26.693 ;E 13° 392 36.223 
+Värmland;Bergsviken/Älvsbacka;1;No;Trifolium pratense;25,625;2,7375;5;5;6;4;Fabaceae;37,5;1;4;6621444,286;424643,157;59,72408;13,66006;N 59° 432 26.693 ;E 13° 392 36.223 
+Värmland;Bergsviken/Älvsbacka;1;No;Vicia sepium;25,625;2,7375;3;4;6;4;Fabaceae;45;1;2;6621444,286;424643,157;59,72408;13,66006;N 59° 432 26.693 ;E 13° 392 36.223 
+Värmland;Bergsviken/Älvsbacka;1;Yes;Achillea millefolium;77,5;2,1;6;2;5;5;Asteraceae;45;1;8;6621502,938;424552,082;59,72459;13,65842;N 59° 432 28.523 ;E 13° 392 30.313 
+Värmland;Bergsviken/Älvsbacka;1;Yes;Hypericum maculatum;77,5;2,1;5;3;3;5;Hypericaceae;55;1;2;6621502,938;424552,082;59,72459;13,65842;N 59° 432 28.523 ;E 13° 392 30.313 
+Värmland;Bergsviken/Älvsbacka;1;Yes;Lupinus polyphyllus;77,5;2,1;5;3;2;2;Fabaceae;85;-1;16;6621502,938;424552,082;59,72459;13,65842;N 59° 432 28.523 ;E 13° 392 30.313 
+Värmland;Bergsviken/Älvsbacka;1;Yes;Ranunculus acris subsp. acris;77,5;2,1;5;5;4;7;Ranunculaceae;45;1;3;6621502,938;424552,082;59,72459;13,65842;N 59° 432 28.523 ;E 13° 392 30.313 
+Värmland;Flugbohöjden/Ettala;1;No;Achillea millefolium;18,75;2,28125;6;2;5;5;Asteraceae;45;1;7;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Alchemilla vulgaris;18,75;2,28125;NA;NA;NA;NA;Rosaceae;25;1;5;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Argentina anserina;18,75;2,28125;7;5;6;5;Rosaceae;10;2;4;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Calluna vulgaris;18,75;2,28125;5;4;2;2;Ericaceae;42,5;1;5;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Campanula persicifolia;18,75;2,28125;5;3;6;5;Campanulaceae;65;1;5;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Carex pallescens;18,75;2,28125;5;5;3;4;Cyperaceae;42,5;1;4;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Cirsium palustre;18,75;2,28125;6;7;4;5;Asteraceae;150;0;1;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Hieracium umbellatum;18,75;2,28125;6;3;4;4;Asteraceae;52,5;0;2;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Lathyrus pratensis;18,75;2,28125;6;5;5;5;Fabaceae;60;1;15;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Leucanthemum vulgare;18,75;2,28125;6;3;6;4;Asteraceae;45;1;12;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Lotus corniculatus;18,75;2,28125;6;3;5;3;Fabaceae;40;2;2;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Luzula multiflora;18,75;2,28125;5;3;4;4;Juncaceae;30;2;10;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Lychnis flos-cuculi;18,75;2,28125;5;7;5;6;Caryophyllaceae;45;1;5;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Ranunculus acris subsp. acris;18,75;2,28125;5;5;4;7;Ranunculaceae;45;1;5;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Rhinanthus minor;18,75;2,28125;5;5;4;2;Orobanchaceae;20;2;5;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Taraxacum;18,75;2,28125;NA;NA;NA;NA;Asteraceae;NA;1;2;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Trifolium hybridum;18,75;2,28125;6;4;6;4;Fabaceae;35;1;8;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Trifolium medium;18,75;2,28125;5;3;5;3;Fabaceae;27,5;1;4;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Trifolium pratense;18,75;2,28125;5;5;6;4;Fabaceae;37,5;1;9;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Trifolium repens;18,75;2,28125;6;5;6;4;Fabaceae;20;1;4;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Trifolium spadiceum;18,75;2,28125;6;5;6;3;Fabaceae;25;2;5;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Tussilago farfara;18,75;2,28125;5;6;6;5;Asteraceae;12,5;0;5;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;No;Veronica officinalis;18,75;2,28125;5;3;5;5;Plantaginaceae;20;0;1;6589893,959;468414,497;59,44641;14,44299999;N 59° 262 47.083 ;E 14° 262 34.803 
+Värmland;Flugbohöjden/Ettala;1;Yes;Achillea millefolium;63,75;2,3875;6;2;5;5;Asteraceae;45;1;3;6589894,315;468371,968;59,44641;14,44225;N 59° 262 47.083 ;E 14° 262 32.103 
+Värmland;Flugbohöjden/Ettala;1;Yes;Argentina anserina;63,75;2,3875;7;5;6;5;Rosaceae;10;2;3;6589894,315;468371,968;59,44641;14,44225;N 59° 262 47.083 ;E 14° 262 32.103 
+Värmland;Flugbohöjden/Ettala;1;Yes;Lupinus polyphyllus;63,75;2,3875;5;3;2;2;Fabaceae;85;-1;16;6589894,315;468371,968;59,44641;14,44225;N 59° 262 47.083 ;E 14° 262 32.103 
+Värmland;Flugbohöjden/Ettala;1;Yes;Taraxacum;63,75;2,3875;NA;NA;NA;NA;Asteraceae;NA;1;3;6589894,315;468371,968;59,44641;14,44225;N 59° 262 47.083 ;E 14° 262 32.103 
+Värmland;Flugbohöjden/Ettala;1;Yes;Viola riviniana;63,75;2,3875;3;5;5;4;Violaceae;15;0;1;6589894,315;468371,968;59,44641;14,44225;N 59° 262 47.083 ;E 14° 262 32.103 
+Värmland;Gersbysäter/Gersby;1;No;Achillea millefolium;23,75;2,81875;6;2;5;5;Asteraceae;45;1;4;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Aegopodium podagraria;23,75;2,81875;3;5;6;5;Apiaceae;65;-1;2;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Campanula patula;23,75;2,81875;6;3;4;4;Campanulaceae;45;1;2;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Juncus effusus;23,75;2,81875;5;7;4;4;Juncaceae;80;0;1;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Leucanthemum vulgare;23,75;2,81875;6;3;6;4;Asteraceae;45;1;4;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Luzula pilosa;23,75;2,81875;3;4;2;4;Juncaceae;17,5;0;2;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Lychnis flos-cuculi;23,75;2,81875;5;7;5;6;Caryophyllaceae;45;1;1;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Potentilla erecta;23,75;2,81875;5;6;4;3;Rosaceae;30;1;5;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Ranunculus acris subsp. acris;23,75;2,81875;5;5;4;7;Ranunculaceae;45;1;13;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Rumex acetosa;23,75;2,81875;6;5;5;6;Polygonaceae;60;1;3;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Stellaria longifolia;23,75;2,81875;4;5;4;6;Caryophyllaceae;90;0;4;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Taraxacum;23,75;2,81875;NA;NA;NA;NA;Asteraceae;NA;1;5;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Trifolium repens;23,75;2,81875;6;5;6;4;Fabaceae;20;1;3;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Vicia cracca;23,75;2,81875;5;5;6;3;Fabaceae;60;1;2;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Viola canina;23,75;2,81875;5;4;3;2;Violaceae;12,5;0;5;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;No;Viola riviniana;23,75;2,81875;3;5;5;4;Violaceae;15;0;2;6632365,339;413495,384;59,81994;13,45739999;N 59° 492 11.783 ;E 13° 272 26.643 
+Värmland;Gersbysäter/Gersby;1;Yes;Anthriscus sylvestris;63,75;2,7625;5;5;6;7;Apiaceae;100;-1;7;6632348,437;413455,72;59,81978;13,4567;N 59° 492 11.213 ;E 13° 272 24.123 
+Värmland;Gersbysäter/Gersby;1;Yes;Gallium mollugo;63,75;2,7625;5;3;5;5;Rubiaceae;65;0;3;6632348,437;413455,72;59,81978;13,4567;N 59° 492 11.213 ;E 13° 272 24.123 
+Värmland;Gersbysäter/Gersby;1;Yes;Lupinus polyphyllus;63,75;2,7625;5;3;2;2;Fabaceae;85;-1;16;6632348,437;413455,72;59,81978;13,4567;N 59° 492 11.213 ;E 13° 272 24.123 
+Värmland;Gersbysäter/Gersby;1;Yes;Potentilla erecta;63,75;2,7625;5;6;4;3;Rosaceae;30;1;4;6632348,437;413455,72;59,81978;13,4567;N 59° 492 11.213 ;E 13° 272 24.123 
+Värmland;Gersbysäter/Gersby;1;Yes;Ranunculus acris subsp. acris;63,75;2,7625;5;5;4;7;Ranunculaceae;45;1;13;6632348,437;413455,72;59,81978;13,4567;N 59° 492 11.213 ;E 13° 272 24.123 
+Värmland;Gersbysäter/Gersby;1;Yes;Rumex acetosa;63,75;2,7625;6;5;5;6;Polygonaceae;60;1;3;6632348,437;413455,72;59,81978;13,4567;N 59° 492 11.213 ;E 13° 272 24.123 
+Värmland;Häggstöd/Nyeds-Backa;2;No;Campanula persicifolia;5;1,5125;5;3;6;5;Campanulaceae;65;1;2;6603856,071;424337,33;59,56613;13,66093;N 59° 332 58.073 ;E 13° 392 39.353 
+Värmland;Häggstöd/Nyeds-Backa;2;No;Centaurea jacea;5;1,5125;5;4;6;5;Asteraceae;55;1;9;6603856,071;424337,33;59,56613;13,66093;N 59° 332 58.073 ;E 13° 392 39.353 
+Värmland;Häggstöd/Nyeds-Backa;2;No;Fragaria vesca;5;1,5125;4;4;5;4;Rosaceae;12,5;0;7;6603856,071;424337,33;59,56613;13,66093;N 59° 332 58.073 ;E 13° 392 39.353 
+Värmland;Häggstöd/Nyeds-Backa;2;No;Gallium mollugo;5;1,5125;5;3;5;5;Rubiaceae;65;0;1;6603856,071;424337,33;59,56613;13,66093;N 59° 332 58.073 ;E 13° 392 39.353 
+Värmland;Häggstöd/Nyeds-Backa;2;No;Hieracium sect. Hieracium agg.;5;1,5125;3;5;6;5;Asteraceae;37,5;0;8;6603856,071;424337,33;59,56613;13,66093;N 59° 332 58.073 ;E 13° 392 39.353 
+Värmland;Häggstöd/Nyeds-Backa;2;No;Hieracium umbellatum;5;1,5125;6;3;4;4;Asteraceae;52,5;0;4;6603856,071;424337,33;59,56613;13,66093;N 59° 332 58.073 ;E 13° 392 39.353 
+Värmland;Häggstöd/Nyeds-Backa;2;No;Hypericum maculatum;5;1,5125;5;3;3;5;Hypericaceae;55;1;1;6603856,071;424337,33;59,56613;13,66093;N 59° 332 58.073 ;E 13° 392 39.353 
+Värmland;Häggstöd/Nyeds-Backa;2;No;Leucanthemum vulgare;5;1,5125;6;3;6;4;Asteraceae;45;1;9;6603856,071;424337,33;59,56613;13,66093;N 59° 332 58.073 ;E 13° 392 39.353 
+Värmland;Häggstöd/Nyeds-Backa;2;No;Luzula multiflora;5;1,5125;5;3;4;4;Juncaceae;30;2;11;6603856,071;424337,33;59,56613;13,66093;N 59° 332 58.073 ;E 13° 392 39.353 
+Värmland;Häggstöd/Nyeds-Backa;2;No;Potentilla erecta;5;1,5125;5;6;4;3;Rosaceae;30;1;2;6603856,071;424337,33;59,56613;13,66093;N 59° 332 58.073 ;E 13° 392 39.353 
+Värmland;Häggstöd/Nyeds-Backa;2;No;Ranunculus acris subsp. acris;5;1,5125;5;5;4;7;Ranunculaceae;45;1;5;6603856,071;424337,33;59,56613;13,66093;N 59° 332 58.073 ;E 13° 392 39.353 
+Värmland;Häggstöd/Nyeds-Backa;2;No;Rubus arcticus;5;1,5125;5;5;3;3;Rosaceae;15;0;3;6603856,071;424337,33;59,56613;13,66093;N 59° 332 58.073 ;E 13° 392 39.353 
+Värmland;Häggstöd/Nyeds-Backa;2;No;Rumex acetosa;5;1,5125;6;5;5;6;Polygonaceae;60;1;1;6603856,071;424337,33;59,56613;13,66093;N 59° 332 58.073 ;E 13° 392 39.353 
+Värmland;Häggstöd/Nyeds-Backa;2;No;Veronica officinalis;5;1,5125;5;3;5;5;Plantaginaceae;20;0;11;6603856,071;424337,33;59,56613;13,66093;N 59° 332 58.073 ;E 13° 392 39.353 
+Värmland;Häggstöd/Nyeds-Backa;2;Yes;Anthriscus sylvestris;48,75;2,525;5;5;6;7;Apiaceae;100;-1;2;6603373,979;424325,918;59,5618;13,66090001;N 59° 332 42.483 ;E 13° 392 39.243 
+Värmland;Häggstöd/Nyeds-Backa;2;Yes;Campanula rotundifolia;48,75;2,525;6;3;5;4;Campanulaceae;30;2;4;6603373,979;424325,918;59,5618;13,66090001;N 59° 332 42.483 ;E 13° 392 39.243 
+Värmland;Häggstöd/Nyeds-Backa;2;Yes;Juncus conglomeratus;48,75;2,525;5;7;3;4;Juncaceae;65;-1;1;6603373,979;424325,918;59,5618;13,66090001;N 59° 332 42.483 ;E 13° 392 39.243 
+Värmland;Häggstöd/Nyeds-Backa;2;Yes;Lupinus polyphyllus;48,75;2,525;5;3;2;2;Fabaceae;85;-1;16;6603373,979;424325,918;59,5618;13,66090001;N 59° 332 42.483 ;E 13° 392 39.243 
+Värmland;Häggstöd/Nyeds-Backa;2;Yes;Ranunculus acris subsp. acris;48,75;2,525;5;5;4;7;Ranunculaceae;45;1;4;6603373,979;424325,918;59,5618;13,66090001;N 59° 332 42.483 ;E 13° 392 39.243 
+Värmland;Häggstöd/Nyeds-Backa;2;Yes;Stellaria graminea;48,75;2,525;5;4;5;4;Caryophyllaceae;20;1;4;6603373,979;424325,918;59,5618;13,66090001;N 59° 332 42.483 ;E 13° 392 39.243 
+Värmland;Häggstöd/Nyeds-Backa;2;Yes;Trifolium repens;48,75;2,525;6;5;6;4;Fabaceae;20;1;1;6603373,979;424325,918;59,5618;13,66090001;N 59° 332 42.483 ;E 13° 392 39.243 
+Värmland;Häggstöd/Nyeds-Backa;2;Yes;Vicia cracca;48,75;2,525;5;5;6;3;Fabaceae;60;1;5;6603373,979;424325,918;59,5618;13,66090001;N 59° 332 42.483 ;E 13° 392 39.243 
+Värmland;Jonsbol;1;No;Achillea millefolium;10;0,275;6;2;5;5;Asteraceae;45;1;1;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Cerastium fontanum;10;0,275;5;6;6;5;Caryophyllaceae;20;1;5;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Gallium mollugo;10;0,275;5;3;5;5;Rubiaceae;65;0;2;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Glebionis segetum;10;0,275;7;5;5;6;Asteraceae;37,5;NA;1;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Hypericum maculatum;10;0,275;5;3;3;5;Hypericaceae;55;1;1;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Leucanthemum vulgare;10;0,275;6;3;6;4;Asteraceae;45;1;12;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Luzula multiflora;10;0,275;5;3;4;4;Juncaceae;30;2;1;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Lychnis flos-cuculi;10;0,275;5;7;5;6;Caryophyllaceae;45;1;6;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Plantago major;10;0,275;5;4;5;5;Plantaginaceae;30;1;1;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Prunella vulgaris;10;0,275;5;6;6;5;Lamiaceae;15;2;6;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Ranunculus acris subsp. acris;10;0,275;5;5;4;7;Ranunculaceae;45;1;4;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Rumex acetosa;10;0,275;6;5;5;6;Polygonaceae;60;1;1;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Rumex acetosella;10;0,275;6;2;3;2;Polygonaceae;25;2;5;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Succisa pratensis;10;0,275;5;6;5;2;Caprifoliaceae;42,5;1;1;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Trifolium repens;10;0,275;6;5;6;4;Fabaceae;20;1;1;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;No;Viola canina;10;0,275;5;4;3;2;Violaceae;12,5;0;7;6561616,409;454779,032;59,19125;14,20849;N 59° 112 28.503 ;E 14° 122 30.563 
+Värmland;Jonsbol;1;Yes;Achillea millefolium;56,25;2,04375;6;2;5;5;Asteraceae;45;1;5;6561602,694;454714,873;59,19112;14,20737;N 59° 112 28.033 ;E 14° 122 26.533 
+Värmland;Jonsbol;1;Yes;Cirsium arvense;56,25;2,04375;6;5;5;7;Asteraceae;95;-1;4;6561602,694;454714,873;59,19112;14,20737;N 59° 112 28.033 ;E 14° 122 26.533 
+Värmland;Jonsbol;1;Yes;Erigeron acris;56,25;2,04375;7;2;5;3;Asteraceae;25;1;3;6561602,694;454714,873;59,19112;14,20737;N 59° 112 28.033 ;E 14° 122 26.533 
+Värmland;Jonsbol;1;Yes;Juncus conglomeratus;56,25;2,04375;5;7;3;4;Juncaceae;65;-1;3;6561602,694;454714,873;59,19112;14,20737;N 59° 112 28.033 ;E 14° 122 26.533 
+Värmland;Jonsbol;1;Yes;Juncus effusus;56,25;2,04375;5;7;4;4;Juncaceae;80;0;4;6561602,694;454714,873;59,19112;14,20737;N 59° 112 28.033 ;E 14° 122 26.533 
+Värmland;Jonsbol;1;Yes;Leucanthemum vulgare;56,25;2,04375;6;3;6;4;Asteraceae;45;1;2;6561602,694;454714,873;59,19112;14,20737;N 59° 112 28.033 ;E 14° 122 26.533 
+Värmland;Jonsbol;1;Yes;Lotus corniculatus;56,25;2,04375;6;3;5;3;Fabaceae;40;2;2;6561602,694;454714,873;59,19112;14,20737;N 59° 112 28.033 ;E 14° 122 26.533 
+Värmland;Jonsbol;1;Yes;Lupinus polyphyllus;56,25;2,04375;5;3;2;2;Fabaceae;85;-1;15;6561602,694;454714,873;59,19112;14,20737;N 59° 112 28.033 ;E 14° 122 26.533 
+Värmland;Jonsbol;1;Yes;Lychnis flos-cuculi;56,25;2,04375;5;7;5;6;Caryophyllaceae;45;1;3;6561602,694;454714,873;59,19112;14,20737;N 59° 112 28.033 ;E 14° 122 26.533 
+Värmland;Jonsbol;1;Yes;Ranunculus acris subsp. acris;56,25;2,04375;5;5;4;7;Ranunculaceae;45;1;3;6561602,694;454714,873;59,19112;14,20737;N 59° 112 28.033 ;E 14° 122 26.533 
+Värmland;Jonsbol;1;Yes;Rumex acetosa;56,25;2,04375;6;5;5;6;Polygonaceae;60;1;2;6561602,694;454714,873;59,19112;14,20737;N 59° 112 28.033 ;E 14° 122 26.533 
+Värmland;Jonsbol;1;Yes;Taraxacum;56,25;2,04375;NA;NA;NA;NA;Asteraceae;NA;1;2;6561602,694;454714,873;59,19112;14,20737;N 59° 112 28.033 ;E 14° 122 26.533 
+Värmland;Jonsbol;1;Yes;Trifolium hybridum;56,25;2,04375;6;4;6;4;Fabaceae;35;1;1;6561602,694;454714,873;59,19112;14,20737;N 59° 112 28.033 ;E 14° 122 26.533 
+Värmland;Jonsbol;1;Yes;Trifolium pratense;56,25;2,04375;5;5;6;4;Fabaceae;37,5;1;8;6561602,694;454714,873;59,19112;14,20737;N 59° 112 28.033 ;E 14° 122 26.533 
+Värmland;Manhem/Asphyttan;2;No;Achillea millefolium;12,5;1,29375;6;2;5;5;Asteraceae;45;1;7;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;No;Anemone nemorosa;12,5;1,29375;4;5;4;6;Ranunculaceae;19;-1;1;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;No;Campanula persicifolia;12,5;1,29375;5;3;6;5;Campanulaceae;65;1;2;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;No;Fragaria vesca;12,5;1,29375;4;4;5;4;Rosaceae;12,5;0;11;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;No;Gallium mollugo;12,5;1,29375;5;3;5;5;Rubiaceae;65;0;2;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;No;Hieracium sect. Hieracium agg.;12,5;1,29375;3;5;6;5;Asteraceae;37,5;0;14;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;No;Lathyrus linifolius;12,5;1,29375;4;3;3;3;Fabaceae;25;1;1;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;No;Leucanthemum vulgare;12,5;1,29375;6;3;6;4;Asteraceae;45;1;1;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;No;Pilosella officinarum;12,5;1,29375;7;1;3;3;Asteraceae;12,5;2;2;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;No;Pimpinella saxifraga;12,5;1,29375;5;3;6;3;Apiaceae;12,5;2;1;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;No;Potentilla erecta;12,5;1,29375;5;6;4;3;Rosaceae;30;1;4;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;No;Vaccinium myrtillus;12,5;1,29375;4;5;2;2;Ericaceae;30;-1;2;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;No;Vaccinium vitis-idaea;12,5;1,29375;5;4;2;1;Ericaceae;17,5;-1;16;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;No;Vicia cracca;12,5;1,29375;5;5;6;3;Fabaceae;60;1;1;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;No;Viola riviniana;12,5;1,29375;3;5;5;4;Violaceae;15;0;2;6610680,146;453745,495;59,63169;14,17982;N 59° 372 54.083 ;E 14° 102 47.353 
+Värmland;Manhem/Asphyttan;2;Yes;Achillea millefolium;37,5;1,05;6;2;5;5;Asteraceae;45;1;3;6610663,505;453740,213;59,63154;14,17972999;N 59° 372 53.543 ;E 14° 102 47.033 
+Värmland;Manhem/Asphyttan;2;Yes;Campanula persicifolia;37,5;1,05;5;3;6;5;Campanulaceae;65;1;1;6610663,505;453740,213;59,63154;14,17972999;N 59° 372 53.543 ;E 14° 102 47.033 
+Värmland;Manhem/Asphyttan;2;Yes;Fragaria vesca;37,5;1,05;4;4;5;4;Rosaceae;12,5;0;16;6610663,505;453740,213;59,63154;14,17972999;N 59° 372 53.543 ;E 14° 102 47.033 
+Värmland;Manhem/Asphyttan;2;Yes;Lathyrus linifolius;37,5;1,05;4;3;3;3;Fabaceae;25;1;1;6610663,505;453740,213;59,63154;14,17972999;N 59° 372 53.543 ;E 14° 102 47.033 
+Värmland;Manhem/Asphyttan;2;Yes;Lathyrus pratensis;37,5;1,05;6;5;5;5;Fabaceae;60;1;8;6610663,505;453740,213;59,63154;14,17972999;N 59° 372 53.543 ;E 14° 102 47.033 
+Värmland;Manhem/Asphyttan;2;Yes;Leucanthemum vulgare;37,5;1,05;6;3;6;4;Asteraceae;45;1;1;6610663,505;453740,213;59,63154;14,17972999;N 59° 372 53.543 ;E 14° 102 47.033 
+Värmland;Manhem/Asphyttan;2;Yes;Lupinus polyphyllus;37,5;1,05;5;3;2;2;Fabaceae;85;-1;16;6610663,505;453740,213;59,63154;14,17972999;N 59° 372 53.543 ;E 14° 102 47.033 
+Värmland;Manhem/Asphyttan;2;Yes;Luzula pilosa;37,5;1,05;3;4;2;4;Juncaceae;17,5;0;1;6610663,505;453740,213;59,63154;14,17972999;N 59° 372 53.543 ;E 14° 102 47.033 
+Värmland;Manhem/Asphyttan;2;Yes;Potentilla erecta;37,5;1,05;5;6;4;3;Rosaceae;30;1;10;6610663,505;453740,213;59,63154;14,17972999;N 59° 372 53.543 ;E 14° 102 47.033 
+Värmland;Manhem/Asphyttan;2;Yes;Ranunculus acris subsp. acris;37,5;1,05;5;5;4;7;Ranunculaceae;45;1;2;6610663,505;453740,213;59,63154;14,17972999;N 59° 372 53.543 ;E 14° 102 47.033 
+Värmland;Manhem/Asphyttan;2;Yes;Vaccinium vitis-idaea;37,5;1,05;5;4;2;1;Ericaceae;17,5;-1;16;6610663,505;453740,213;59,63154;14,17972999;N 59° 372 53.543 ;E 14° 102 47.033 
+Värmland;Manhem/Asphyttan;2;Yes;Vicia cracca;37,5;1,05;5;5;6;3;Fabaceae;60;1;3;6610663,505;453740,213;59,63154;14,17972999;N 59° 372 53.543 ;E 14° 102 47.033 
+Värmland;Nordsjö;1;No;Achillea millefolium;15;3,6;6;2;5;5;Asteraceae;45;1;11;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;No;Angelica sylvestris;15;3,6;5;7;4;7;Apiaceae;140;0;1;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;No;Calluna vulgaris;15;3,6;5;4;2;2;Ericaceae;42,5;1;1;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;No;Chamaenerion angustifolium;15;3,6;5;4;3;7;Onagraceae;115;-1;7;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;No;Fragaria vesca;15;3,6;4;4;5;4;Rosaceae;12,5;0;7;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;No;Galium uliginosum;15;3,6;5;7;5;3;Rubiaceae;22,5;0;3;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;No;Gallium mollugo;15;3,6;5;3;5;5;Rubiaceae;65;0;2;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;No;Hieracium umbellatum;15;3,6;6;3;4;4;Asteraceae;52,5;0;3;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;No;Hypericum maculatum;15;3,6;5;3;3;5;Hypericaceae;55;1;1;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;No;Juncus effusus;15;3,6;5;7;4;4;Juncaceae;80;0;2;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;No;Luzula multiflora;15;3,6;5;3;4;4;Juncaceae;30;2;3;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;No;Ranunculus acris subsp. acris;15;3,6;5;5;4;7;Ranunculaceae;45;1;7;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;No;Rumex acetosa;15;3,6;6;5;5;6;Polygonaceae;60;1;3;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;No;Veronica chamaedrys;15;3,6;4;4;5;5;Plantaginaceae;20;1;9;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;No;Vicia cracca;15;3,6;5;5;6;3;Fabaceae;60;1;3;6621254,271;413623,418;59,72023;13,46427001;N 59° 432 12.833 ;E 13° 272 51.373 
+Värmland;Nordsjö;1;Yes;Achillea millefolium;67,5;2,075;6;2;5;5;Asteraceae;45;1;1;6621252,416;413655,448;59,72022;13,46484001;N 59° 432 12.793 ;E 13° 272 53.423 
+Värmland;Nordsjö;1;Yes;Calluna vulgaris;67,5;2,075;5;4;2;2;Ericaceae;42,5;1;4;6621252,416;413655,448;59,72022;13,46484001;N 59° 432 12.793 ;E 13° 272 53.423 
+Värmland;Nordsjö;1;Yes;Gallium mollugo;67,5;2,075;5;3;5;5;Rubiaceae;65;0;7;6621252,416;413655,448;59,72022;13,46484001;N 59° 432 12.793 ;E 13° 272 53.423 
+Värmland;Nordsjö;1;Yes;Juncus effusus;67,5;2,075;5;7;4;4;Juncaceae;80;0;2;6621252,416;413655,448;59,72022;13,46484001;N 59° 432 12.793 ;E 13° 272 53.423 
+Värmland;Nordsjö;1;Yes;Lupinus polyphyllus;67,5;2,075;5;3;2;2;Fabaceae;85;-1;16;6621252,416;413655,448;59,72022;13,46484001;N 59° 432 12.793 ;E 13° 272 53.423 
+Värmland;Nykroppa Herrhult;1;No;Anthriscus sylvestris;19,375;1,0875;5;5;6;7;Apiaceae;100;-1;1;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;No;Chamaenerion angustifolium;19,375;1,0875;5;4;3;7;Onagraceae;115;-1;2;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;No;Daucus carota subsp. carota;19,375;1,0875;7;2;7;5;Apiaceae;55;1;7;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;No;Fragaria vesca;19,375;1,0875;4;4;5;4;Rosaceae;12,5;0;3;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;No;Knautia arvensis;19,375;1,0875;6;3;6;4;Caprifoliaceae;55;1;8;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;No;Lathyrus pratensis;19,375;1,0875;6;5;5;5;Fabaceae;60;1;2;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;No;Leucanthemum vulgare;19,375;1,0875;6;3;6;4;Asteraceae;45;1;5;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;No;Pimpinella saxifraga;19,375;1,0875;5;3;6;3;Apiaceae;12,5;2;7;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;No;Potentilla erecta;19,375;1,0875;5;6;4;3;Rosaceae;30;1;2;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;No;Ranunculus acris subsp. acris;19,375;1,0875;5;5;4;7;Ranunculaceae;45;1;1;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;No;Rhinanthus minor;19,375;1,0875;5;5;4;2;Orobanchaceae;20;2;1;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;No;Solidago canadensis;19,375;1,0875;6;3;5;7;Asteraceae;90;-1;2;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;No;Taraxacum;19,375;1,0875;NA;NA;NA;NA;Asteraceae;NA;1;5;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;No;Vicia cracca;19,375;1,0875;5;5;6;3;Fabaceae;60;1;3;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;No;Viola canina;19,375;1,0875;5;4;3;2;Violaceae;12,5;0;1;6621374,552;456402,293;59,728;14,22471;N 59° 432 40.803 ;E 14° 132 28.963 
+Värmland;Nykroppa Herrhult;1;Yes;Alchemilla vulgaris;58,75;0,83125;NA;NA;NA;NA;Rosaceae;25;1;3;6621381,352;456392,249;59,72806;14,22453;N 59° 432 41.023 ;E 14° 132 28.313 
+Värmland;Nykroppa Herrhult;1;Yes;Lupinus polyphyllus;58,75;0,83125;5;3;2;2;Fabaceae;85;-1;16;6621381,352;456392,249;59,72806;14,22453;N 59° 432 41.023 ;E 14° 132 28.313 
+Värmland;Nykroppa Herrhult;1;Yes;Ranunculus acris subsp. acris;58,75;0,83125;5;5;4;7;Ranunculaceae;45;1;2;6621381,352;456392,249;59,72806;14,22453;N 59° 432 41.023 ;E 14° 132 28.313 
+Värmland;Nykroppa Herrhult;1;Yes;Solidago canadensis;58,75;0,83125;6;3;5;7;Asteraceae;90;-1;9;6621381,352;456392,249;59,72806;14,22453;N 59° 432 41.023 ;E 14° 132 28.313 
+Värmland;Nykroppa Herrhult;1;Yes;Trifolium pratense;58,75;0,83125;5;5;6;4;Fabaceae;37,5;1;4;6621381,352;456392,249;59,72806;14,22453;N 59° 432 41.023 ;E 14° 132 28.313 
+Värmland;Rämmen-Haget;1;No;Alchemilla vulgaris;11,25;0,38125;NA;NA;NA;NA;Rosaceae;25;1;1;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Angelica sylvestris;11,25;0,38125;5;7;4;7;Apiaceae;140;0;2;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Campanula rotundifolia;11,25;0,38125;6;3;5;4;Campanulaceae;30;2;1;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Carex leporina;11,25;0,38125;4;5;3;4;Cyperaceae;25;0;2;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Cirsium palustre;11,25;0,38125;6;7;4;5;Asteraceae;150;0;1;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Fragaria vesca;11,25;0,38125;4;4;5;4;Rosaceae;12,5;0;15;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Knautia arvensis;11,25;0,38125;6;3;6;4;Caprifoliaceae;55;1;6;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Leucanthemum vulgare;11,25;0,38125;6;3;6;4;Asteraceae;45;1;3;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Pilosella officinarum;11,25;0,38125;7;1;3;3;Asteraceae;12,5;2;4;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Potentilla erecta;11,25;0,38125;5;6;4;3;Rosaceae;30;1;8;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Prunella vulgaris;11,25;0,38125;5;6;6;5;Lamiaceae;15;2;1;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Ranunculus acris subsp. acris;11,25;0,38125;5;5;4;7;Ranunculaceae;45;1;10;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Rumex acetosa;11,25;0,38125;6;5;5;6;Polygonaceae;60;1;3;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Taraxacum;11,25;0,38125;NA;NA;NA;NA;Asteraceae;NA;1;11;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Tussilago farfara;11,25;0,38125;5;6;6;5;Asteraceae;12,5;0;2;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Veronica officinalis;11,25;0,38125;5;3;5;5;Plantaginaceae;20;0;3;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;No;Viola canina;11,25;0,38125;5;4;3;2;Violaceae;12,5;0;5;6641003,163;450058,324;59,90352;14,10721;N 59° 542 12.673 ;E 14° 62 25.963 
+Värmland;Rämmen-Haget;1;Yes;Calluna vulgaris;41,25;1,38125;5;4;2;2;Ericaceae;42,5;1;3;6641011,184;450041,648;59,90359;14,10691;N 59° 542 12.923 ;E 14° 62 24.883 
+Värmland;Rämmen-Haget;1;Yes;Fragaria vesca;41,25;1,38125;4;4;5;4;Rosaceae;12,5;0;11;6641011,184;450041,648;59,90359;14,10691;N 59° 542 12.923 ;E 14° 62 24.883 
+Värmland;Rämmen-Haget;1;Yes;Hieracium umbellatum;41,25;1,38125;6;3;4;4;Asteraceae;52,5;0;1;6641011,184;450041,648;59,90359;14,10691;N 59° 542 12.923 ;E 14° 62 24.883 
+Värmland;Rämmen-Haget;1;Yes;Leucanthemum vulgare;41,25;1,38125;6;3;6;4;Asteraceae;45;1;2;6641011,184;450041,648;59,90359;14,10691;N 59° 542 12.923 ;E 14° 62 24.883 
+Värmland;Rämmen-Haget;1;Yes;Lupinus polyphyllus;41,25;1,38125;5;3;2;2;Fabaceae;85;-1;13;6641011,184;450041,648;59,90359;14,10691;N 59° 542 12.923 ;E 14° 62 24.883 
+Värmland;Rämmen-Haget;1;Yes;Potentilla erecta;41,25;1,38125;5;6;4;3;Rosaceae;30;1;1;6641011,184;450041,648;59,90359;14,10691;N 59° 542 12.923 ;E 14° 62 24.883 
+Värmland;Rämmen-Haget;1;Yes;Ranunculus acris subsp. acris;41,25;1,38125;5;5;4;7;Ranunculaceae;45;1;2;6641011,184;450041,648;59,90359;14,10691;N 59° 542 12.923 ;E 14° 62 24.883 
+Värmland;Rämmen-Haget;1;Yes;Taraxacum;41,25;1,38125;NA;NA;NA;NA;Asteraceae;NA;1;3;6641011,184;450041,648;59,90359;14,10691;N 59° 542 12.923 ;E 14° 62 24.883 
+Värmland;Rämmen-Haget;1;Yes;Trifolium pratense;41,25;1,38125;5;5;6;4;Fabaceae;37,5;1;3;6641011,184;450041,648;59,90359;14,10691;N 59° 542 12.923 ;E 14° 62 24.883 
+Värmland;Rämmen-Haget;1;Yes;Tussilago farfara;41,25;1,38125;5;6;6;5;Asteraceae;12,5;0;3;6641011,184;450041,648;59,90359;14,10691;N 59° 542 12.923 ;E 14° 62 24.883 
+Värmland;Snavlunda äng;1;No;Achillea millefolium;6,875;0,65625;6;2;5;5;Asteraceae;45;1;3;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Alchemilla vulgaris;6,875;0,65625;NA;NA;NA;NA;Rosaceae;25;1;2;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Anthyllis vulneraria;6,875;0,65625;7;3;7;3;Fabaceae;32,5;0;3;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Daucus carota subsp. carota;6,875;0,65625;7;2;7;5;Apiaceae;55;1;6;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Dianthus deltoides;6,875;0,65625;7;2;6;3;Caryophyllaceae;20;2;1;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Hypericum perforatum;6,875;0,65625;6;2;5;4;Hypericaceae;50;2;1;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Lotus corniculatus;6,875;0,65625;6;3;5;3;Fabaceae;40;2;5;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Pimpinella saxifraga;6,875;0,65625;5;3;6;3;Apiaceae;12,5;2;9;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Plantago major;6,875;0,65625;5;4;5;5;Plantaginaceae;30;1;9;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Potentilla argentea;6,875;0,65625;7;2;4;2;Rosaceae;25;1;6;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Ranunculus acris subsp. acris;6,875;0,65625;5;5;4;7;Ranunculaceae;45;1;2;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Rumex acetosella;6,875;0,65625;6;2;3;2;Polygonaceae;25;2;1;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Silene vulgaris;6,875;0,65625;6;3;6;5;Caryophyllaceae;55;1;2;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Stellaria longifolia;6,875;0,65625;4;5;4;6;Caryophyllaceae;90;0;1;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Taraxacum;6,875;0,65625;NA;NA;NA;NA;Asteraceae;NA;1;5;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Trifolium aureoum;6,875;0,65625;6;2;6;3;Fabaceae;22,5;2;1;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Trifolium hybridum;6,875;0,65625;6;4;6;4;Fabaceae;35;1;2;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Trifolium pratense;6,875;0,65625;5;5;6;4;Fabaceae;37,5;1;8;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;No;Verbascum nigrum;6,875;0,65625;6;2;5;5;Scrophulariaceae;70;0;4;6648328,782;494108,301;59,97228;14,89446;N 59° 582 20.213 ;E 14° 532 40.063 
+Värmland;Snavlunda äng;1;Yes;Campanula rotundifolia;52,5;2,6375;6;3;5;4;Campanulaceae;30;2;6;6650908,957;494242,954;59,99545;14,89679999;N 59° 592 43.623 ;E 14° 532 48.483 
+Värmland;Snavlunda äng;1;Yes;Lupinus polyphyllus;52,5;2,6375;5;3;2;2;Fabaceae;85;-1;14;6650908,957;494242,954;59,99545;14,89679999;N 59° 592 43.623 ;E 14° 532 48.483 
+Värmland;Snavlunda äng;1;Yes;Trifolium hybridum;52,5;2,6375;6;4;6;4;Fabaceae;35;1;3;6650908,957;494242,954;59,99545;14,89679999;N 59° 592 43.623 ;E 14° 532 48.483 
+Värmland;Snavlunda äng;1;Yes;Trifolium pratense;52,5;2,6375;5;5;6;4;Fabaceae;37,5;1;5;6650908,957;494242,954;59,99545;14,89679999;N 59° 592 43.623 ;E 14° 532 48.483 
+Värmland;Stavkärr/Svinnersta;3;No;Achillea millefolium;10;2,9;6;2;5;5;Asteraceae;45;1;3;6537580,041;487246,521;58,97761;14,77815999;N 58° 582 39.403 ;E 14° 462 41.383 
+Värmland;Stavkärr/Svinnersta;3;No;Daucus carota subsp. carota;10;2,9;7;2;7;5;Apiaceae;55;1;3;6537580,041;487246,521;58,97761;14,77815999;N 58° 582 39.403 ;E 14° 462 41.383 
+Värmland;Stavkärr/Svinnersta;3;No;Fragaria vesca;10;2,9;4;4;5;4;Rosaceae;12,5;0;1;6537580,041;487246,521;58,97761;14,77815999;N 58° 582 39.403 ;E 14° 462 41.383 
+Värmland;Stavkärr/Svinnersta;3;No;Geum rivale;10;2,9;4;6;6;6;Rosaceae;35;1;2;6537580,041;487246,521;58,97761;14,77815999;N 58° 582 39.403 ;E 14° 462 41.383 
+Värmland;Stavkärr/Svinnersta;3;No;Hypericum maculatum;10;2,9;5;3;3;5;Hypericaceae;55;1;16;6537580,041;487246,521;58,97761;14,77815999;N 58° 582 39.403 ;E 14° 462 41.383 
+Värmland;Stavkärr/Svinnersta;3;No;Lathyrus linifolius;10;2,9;4;3;3;3;Fabaceae;25;1;6;6537580,041;487246,521;58,97761;14,77815999;N 58° 582 39.403 ;E 14° 462 41.383 
+Värmland;Stavkärr/Svinnersta;3;No;Lotus corniculatus;10;2,9;6;3;5;3;Fabaceae;40;2;14;6537580,041;487246,521;58,97761;14,77815999;N 58° 582 39.403 ;E 14° 462 41.383 
+Värmland;Stavkärr/Svinnersta;3;No;Melampyrum sylvaticum;10;2,9;3;4;5;4;Orobanchaceae;20;0;16;6537580,041;487246,521;58,97761;14,77815999;N 58° 582 39.403 ;E 14° 462 41.383 
+Värmland;Stavkärr/Svinnersta;3;No;Pimpinella saxifraga;10;2,9;5;3;6;3;Apiaceae;12,5;2;1;6537580,041;487246,521;58,97761;14,77815999;N 58° 582 39.403 ;E 14° 462 41.383 
+Värmland;Stavkärr/Svinnersta;3;No;Plantago lanceolata;10;2,9;6;3;5;4;Plantaginaceae;40;1;3;6537580,041;487246,521;58,97761;14,77815999;N 58° 582 39.403 ;E 14° 462 41.383 
+Värmland;Stavkärr/Svinnersta;3;No;Succisa pratensis;10;2,9;5;6;5;2;Caprifoliaceae;42,5;1;8;6537580,041;487246,521;58,97761;14,77815999;N 58° 582 39.403 ;E 14° 462 41.383 
+Värmland;Stavkärr/Svinnersta;3;No;Trifolium repens;10;2,9;6;5;6;4;Fabaceae;20;1;1;6537580,041;487246,521;58,97761;14,77815999;N 58° 582 39.403 ;E 14° 462 41.383 
+Värmland;Stavkärr/Svinnersta;3;No;Veronica chamaedrys;10;2,9;4;4;5;5;Plantaginaceae;20;1;9;6537580,041;487246,521;58,97761;14,77815999;N 58° 582 39.403 ;E 14° 462 41.383 
+Värmland;Stavkärr/Svinnersta;3;No;Vicia cracca;10;2,9;5;5;6;3;Fabaceae;60;1;7;6537580,041;487246,521;58,97761;14,77815999;N 58° 582 39.403 ;E 14° 462 41.383 
+Värmland;Stavkärr/Svinnersta;3;Yes;Achillea millefolium;86,25;2,90625;6;2;5;5;Asteraceae;45;1;3;6537598,995;487239,111;58,97778;14,77803001;N 58° 582 40.013 ;E 14° 462 40.913 
+Värmland;Stavkärr/Svinnersta;3;Yes;Fragaria vesca;86,25;2,90625;4;4;5;4;Rosaceae;12,5;0;3;6537598,995;487239,111;58,97778;14,77803001;N 58° 582 40.013 ;E 14° 462 40.913 
+Värmland;Stavkärr/Svinnersta;3;Yes;Hypericum maculatum;86,25;2,90625;5;3;3;5;Hypericaceae;55;1;3;6537598,995;487239,111;58,97778;14,77803001;N 58° 582 40.013 ;E 14° 462 40.913 
+Värmland;Stavkärr/Svinnersta;3;Yes;Knautia arvensis;86,25;2,90625;6;3;6;4;Caprifoliaceae;55;1;1;6537598,995;487239,111;58,97778;14,77803001;N 58° 582 40.013 ;E 14° 462 40.913 
+Värmland;Stavkärr/Svinnersta;3;Yes;Lathyrus linifolius;86,25;2,90625;4;3;3;3;Fabaceae;25;1;3;6537598,995;487239,111;58,97778;14,77803001;N 58° 582 40.013 ;E 14° 462 40.913 
+Värmland;Stavkärr/Svinnersta;3;Yes;Lupinus polyphyllus;86,25;2,90625;5;3;2;2;Fabaceae;85;-1;14;6537598,995;487239,111;58,97778;14,77803001;N 58° 582 40.013 ;E 14° 462 40.913 
+Värmland;Stavkärr/Svinnersta;3;Yes;Melampyrum sylvaticum;86,25;2,90625;3;4;5;4;Orobanchaceae;20;0;4;6537598,995;487239,111;58,97778;14,77803001;N 58° 582 40.013 ;E 14° 462 40.913 
+Värmland;Stavkärr/Svinnersta;3;Yes;Plantago lanceolata;86,25;2,90625;6;3;5;4;Plantaginaceae;40;1;1;6537598,995;487239,111;58,97778;14,77803001;N 58° 582 40.013 ;E 14° 462 40.913 
+Värmland;Stavkärr/Svinnersta;3;Yes;Veronica chamaedrys;86,25;2,90625;4;4;5;5;Plantaginaceae;20;1;2;6537598,995;487239,111;58,97778;14,77803001;N 58° 582 40.013 ;E 14° 462 40.913 
+Värmland;Torsked;1;No;Carex pallescens;11,875;2,4375;5;5;3;4;Cyperaceae;42,5;1;3;6616988,264;422533,356;59,68369;13,62420001;N 59° 412 1.283 ;E 13° 372 27.123 
+Värmland;Torsked;1;No;Convallaria majalis;11,875;2,4375;2;5;4;4;Asparagaceae;17,5;0;15;6616988,264;422533,356;59,68369;13,62420001;N 59° 412 1.283 ;E 13° 372 27.123 
+Värmland;Torsked;1;No;Geranium sylvaticum;11,875;2,4375;4;5;5;5;Geraniaceae;47,5;0;4;6616988,264;422533,356;59,68369;13,62420001;N 59° 412 1.283 ;E 13° 372 27.123 
+Värmland;Torsked;1;No;Hypericum maculatum;11,875;2,4375;5;3;3;5;Hypericaceae;55;1;1;6616988,264;422533,356;59,68369;13,62420001;N 59° 412 1.283 ;E 13° 372 27.123 
+Värmland;Torsked;1;No;Lathyrus pratensis;11,875;2,4375;6;5;5;5;Fabaceae;60;1;1;6616988,264;422533,356;59,68369;13,62420001;N 59° 412 1.283 ;E 13° 372 27.123 
+Värmland;Torsked;1;No;Luzula pilosa;11,875;2,4375;3;4;2;4;Juncaceae;17,5;0;2;6616988,264;422533,356;59,68369;13,62420001;N 59° 412 1.283 ;E 13° 372 27.123 
+Värmland;Torsked;1;No;Ranunculus acris subsp. acris;11,875;2,4375;5;5;4;7;Ranunculaceae;45;1;2;6616988,264;422533,356;59,68369;13,62420001;N 59° 412 1.283 ;E 13° 372 27.123 
+Värmland;Torsked;1;No;Rubus saxatilis;11,875;2,4375;3;5;5;5;Rosaceae;22,5;-1;13;6616988,264;422533,356;59,68369;13,62420001;N 59° 412 1.283 ;E 13° 372 27.123 
+Värmland;Torsked;1;No;Vicia cracca;11,875;2,4375;5;5;6;3;Fabaceae;60;1;2;6616988,264;422533,356;59,68369;13,62420001;N 59° 412 1.283 ;E 13° 372 27.123 
+Värmland;Torsked;1;Yes;Campanula persicifolia;31,25;2,81875;5;3;6;5;Campanulaceae;65;1;1;6617027,742;422563,463;59,68405;13,62472;N 59° 412 2.583 ;E 13° 372 28.993 
+Värmland;Torsked;1;Yes;Fragaria vesca;31,25;2,81875;4;4;5;4;Rosaceae;12,5;0;5;6617027,742;422563,463;59,68405;13,62472;N 59° 412 2.583 ;E 13° 372 28.993 
+Värmland;Torsked;1;Yes;Lupinus polyphyllus;31,25;2,81875;5;3;2;2;Fabaceae;85;-1;16;6617027,742;422563,463;59,68405;13,62472;N 59° 412 2.583 ;E 13° 372 28.993 
+Värmland;Torsked;1;Yes;Luzula multiflora;31,25;2,81875;5;3;4;4;Juncaceae;30;2;3;6617027,742;422563,463;59,68405;13,62472;N 59° 412 2.583 ;E 13° 372 28.993 
+Värmland;Torsked;1;Yes;Luzula pallescens;31,25;2,81875;5;3;3;4;Juncaceae;20;1;1;6617027,742;422563,463;59,68405;13,62472;N 59° 412 2.583 ;E 13° 372 28.993 
+Värmland;Torsked;1;Yes;Ranunculus acris subsp. acris;31,25;2,81875;5;5;4;7;Ranunculaceae;45;1;2;6617027,742;422563,463;59,68405;13,62472;N 59° 412 2.583 ;E 13° 372 28.993 
